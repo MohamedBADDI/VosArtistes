@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="fr" to="ar" domain="c95ebb9545e608e399a8b87d870f51b0" scope="/v2/artistes.php">
+  <word hash="b3ccd10ed8cc2ff17794a276903054268c2c786d3017fc5450202bea2363b047" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Haj Nassar Chadia ]]></source>
+    <translation><![CDATA[ الحاج نصار شادية ]]></translation>
+  </word>
+  <word hash="5fa30f834401d0e5a00ecb7442d1cfc1f7358446f5991db3759b62860f7c4782" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Horbaniuc Liana (Roumanie) ]]></source>
+    <translation><![CDATA[ Horbaniuc يانا (رومانيا) ]]></translation>
+  </word>
+  <word hash="d1c26147687d3ebc1548141aabf1cd59c8bc8a4dda161c222eebf7406a56539e" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Jaride Ahmed ]]></source>
+    <translation><![CDATA[ أحمد Jaride ]]></translation>
+  </word>
+  <word hash="e5c3ab07f2a8779a3b98f4921269263999360b3b823c0429f472661d84eb2041" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Kohen Zineb ]]></source>
+    <translation><![CDATA[ كوهين زينب ]]></translation>
+  </word>
+  <word hash="e4a0b7a347cf070b9bf42c57e8a1ffbb799142068210fe95ae444985fdf352aa" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Lakhdar Hassane ]]></source>
+    <translation><![CDATA[ لخضر الحسن ]]></translation>
+  </word>
+  <word hash="b6be15968fc47405188e07b4264c6c7979891762a2d7f662044b5b3548476aa8" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Lorjou Bernard ]]></source>
+    <translation><![CDATA[ برنار Lorjou ]]></translation>
+  </word>
+  <word hash="f7fe58f7967dd3ed44430eaebeb6293275053b9fd8a58aa3fd145a6a1da9462f" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Louardiri Ahmed ]]></source>
+    <translation><![CDATA[ أحمد Louardiri ]]></translation>
+  </word>
+  <word hash="0332ab3e9a98b2b0b201c61c0f535e9fbc055ad621f28ae33a744651f7b91c05" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Léger Fernand ]]></source>
+    <translation><![CDATA[ فرناند ليجيه ]]></translation>
+  </word>
+  <word hash="10ac5f3e710a67bf3b10999bca606641cf79838c0ad67d8895a32c3210aede82" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Maclade ]]></source>
+    <translation><![CDATA[ Maclade ]]></translation>
+  </word>
+  <word hash="c50c7f15c93955c8d7b6019176b9fed851bc96276b10ea1fd47fd6d822918929" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Picasso Pablo ]]></source>
+    <translation><![CDATA[ بابلو بيكاسو ]]></translation>
+  </word>
+  <word hash="2c9fe6a52334297d6c60a48decde11fa54a43275c2e6b2396e975bd4996d8cd8" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Rossi N ]]></source>
+    <translation><![CDATA[ روسي N ]]></translation>
+  </word>
+  <word hash="e447ec28e5769af4fb221672f0a5cfed4ab7dcf2b017250f238797dc011468ff" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Saduba ]]></source>
+    <translation><![CDATA[ Saduba ]]></translation>
+  </word>
+  <word hash="e5a4fef6b3b075d4f8a7994c673f6f9691148213d5b409873f468112496d826b" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Schmidt W ]]></source>
+    <translation><![CDATA[ W شميت ]]></translation>
+  </word>
+  <word hash="fc835ba4548a91817db3d7d3df6cd3770e55c27681877d77c806c79913927c07" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Tifardine Mohammed ]]></source>
+    <translation><![CDATA[ Tifardine محمد ]]></translation>
+  </word>
+  <word hash="16930c953790126b58cc94bc4a8c4860a91380484c28859892f7550619bbce17" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[ Touta Aziz ]]></source>
+    <translation><![CDATA[ عزيز توتة ]]></translation>
+  </word>
+  <word hash="5be48125c1a81a448f01bffa9487755f01efb71b7c6ace08174c3aede7aa73ed" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[“ Nadif Khalid ”]]></source>
+    <translation><![CDATA["خالد نظيف"]]></translation>
+  </word>
+  <word hash="a6a8a9f4d4519b93d936e18db44109807843610fece8168bce03aca42d05aba3" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Grand visage de Nadif]]></source>
+    <translation><![CDATA[جراند الوجه نظيف]]></translation>
+  </word>
+  <word hash="795e07e88a7d073fe54f87c2b91203481316b1d7eff5dca202dc5abd3e32542f" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Vendredi 13 Novembre 2015 : Ahmed Hajoubi, Qorchâl]]></source>
+    <translation><![CDATA[الجمعة 13 نوفمبر، 2015: أحمد Hajoubi، Qorchâl]]></translation>
+  </word>
+  <word hash="2ebad1ad8fc64678949ebc37d8ec446f40e83c865c5f1f5bd9b6cff6a40a8767" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Du Ven, 13/11/2015 Au Lun, 30/11/2015.]]></source>
+    <translation><![CDATA[من الجمعة 2015/11/13 في الاثنين، 30/11/2015.]]></translation>
+  </word>
+  <word hash="f13591cfd643747a596e44b25528a865d1232ef4cd3a0e5dc7d97a485086098d" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Au Au 9 (C.I.L) - 9 Rue Ifrane.]]></source>
+    <translation><![CDATA[9 وفي في (CIL) - 9 شارع إفران.]]></translation>
+  </word>
+  <word hash="bd243226a5dea3445a07e9915edc66ac928db85ed35f93b161493dce262d6712" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Novembre 2015]]></source>
+    <translation><![CDATA[نوفمبر 2015]]></translation>
+  </word>
+  <word hash="5af9ff8aa5b4b2aa63dc6206ca001e0af39f3cbff5ccbe513a1db876f9bd3c88" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Bekkali Mokhtar]]></source>
+    <translation><![CDATA[مختار البقالي]]></translation>
+  </word>
+  <word hash="80fb18aa9a6ec9d025d123fdabf8430cf51fadeea7602dfabb9d33edd1da6b53" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Roybal Joyce]]></source>
+    <translation><![CDATA[Roybal جويس]]></translation>
+  </word>
+  <word hash="d098c9792088ff6395fc5303bb94fb8b7c46adad13f25e6fc9948cf1423ac3ba" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Krich Mohamed]]></source>
+    <translation><![CDATA[محمد krich]]></translation>
+  </word>
+  <word hash="5af9ff8aa5b4b2aa63dc6206ca001e0af39f3cbff5ccbe513a1db876f9bd3c88" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Bekkali Mokhtar]]></source>
+    <translation><![CDATA[مختار البقالي]]></translation>
+  </word>
+  <word hash="80fb18aa9a6ec9d025d123fdabf8430cf51fadeea7602dfabb9d33edd1da6b53" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Roybal Joyce]]></source>
+    <translation><![CDATA[Roybal جويس]]></translation>
+  </word>
+  <word hash="d098c9792088ff6395fc5303bb94fb8b7c46adad13f25e6fc9948cf1423ac3ba" date="2015-11-08T10:52:29+01:00">
+    <source><![CDATA[Krich Mohamed]]></source>
+    <translation><![CDATA[محمد krich]]></translation>
+  </word>
+</translations>

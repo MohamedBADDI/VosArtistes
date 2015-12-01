@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="fr" to="en" domain="global" scope="global">
+  <word hash="52e6ea6c52b112e5041a47e95c6053325598031f8ee82724cfb89a035fecd04a" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Aamiri Brahim ]]></source>
+    <translation><![CDATA[ Brahim Aamiri ]]></translation>
+  </word>
+  <word hash="33405ee8f1a8786d2d7e11dd7b6e6cc4e3210b43bb8a64bc6e0fac03c9001e8a" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Abascal Carlos ]]></source>
+    <translation><![CDATA[ Carlos Abascal ]]></translation>
+  </word>
+  <word hash="f1da50afa71d71e4abbdb24f293906501ec9baf9eedcb6d7041e80ce5ec8d1de" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Al Raudhy Amira ]]></source>
+    <translation><![CDATA[ Amira Al Raudhy ]]></translation>
+  </word>
+  <word hash="96bbd32654f778b001135fb6eea64691a785ea087db953865065bc90630ef1b2" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Ammor Leila ]]></source>
+    <translation><![CDATA[ Leila Ammor ]]></translation>
+  </word>
+  <word hash="d98be15b6d6f53395186b0bfd5f251acd817f7b65d87146158d678ce05b1a427" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Arzima Abdelhak ]]></source>
+    <translation><![CDATA[ Abdelhak Arzima ]]></translation>
+  </word>
+  <word hash="680bdbe7fe0d8814fe857e31d4553ce6e4207bfe847ad7c266176b292819bf89" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Attobi Lotfi ]]></source>
+    <translation><![CDATA[ Lotfi Attobi ]]></translation>
+  </word>
+  <word hash="299f8c4bdf4ad30d21765bd4f58dbdd52e1ce0f194d287a609f2bdaf1019e3e3" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Azagury Elie ]]></source>
+    <translation><![CDATA[ Elie Azagury ]]></translation>
+  </word>
+  <word hash="cfbf6bbef85a797c89e12c74de87be9d14b659ee10403f2dadb80edceaa7b9b2" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Bekkali Mokhtar ]]></source>
+    <translation><![CDATA[ Mokhtar Bekkali ]]></translation>
+  </word>
+  <word hash="3a0a78cdddf40bd545dd5da5357d9fe8dc0ca810aa03bdf7f99fefd02d49bdf0" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Bekkar Rachid ]]></source>
+    <translation><![CDATA[ Rachid Bekkar ]]></translation>
+  </word>
+  <word hash="9c8c5076ced44ed5d9cd03d4dd3058e27c444af8f852f868db3a3e66d9b870d4" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Belkahia Mounira ]]></source>
+    <translation><![CDATA[ Belkahia Mounira ]]></translation>
+  </word>
+  <word hash="c7d1c869921ee771cb923d809088d73c67d4d460c843ada431b670f1138a4169" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Belmahdi Youssef ]]></source>
+    <translation><![CDATA[ Belmahdi Youssef ]]></translation>
+  </word>
+  <word hash="35a0cf675ba7127f451bd088155e00f0e86bb262c0fe66a9c989ff42012196a7" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Benkaddour Abdelkader ]]></source>
+    <translation><![CDATA[ Abdelkader Benkaddour ]]></translation>
+  </word>
+  <word hash="6617a00a074909ed667c0f2ed2a45ede19d71f6fbad2996b78e3bd60d7cc9272" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Bennani Karim ]]></source>
+    <translation><![CDATA[ Karim Bennani ]]></translation>
+  </word>
+  <word hash="251be3e210574e82b5a9cebc3b4f0e50c706c9c7c5a2b42b0d0e1ca0a9ab090a" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Bouhamida Samira ]]></source>
+    <translation><![CDATA[ Samira Bouhamida ]]></translation>
+  </word>
+  <word hash="5aa0788ea9d641f85acbabc6d1e22ac45761cb6deb46ea4bf5b4f37b800b990e" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Carzou Jean ]]></source>
+    <translation><![CDATA[ Jean Carzou ]]></translation>
+  </word>
+  <word hash="39c4c2c55eec933879e293233a4d5d1393da3a2a11d583b403acc593a02a75e9" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Causse Patrick ]]></source>
+    <translation><![CDATA[ Patrick Causse ]]></translation>
+  </word>
+  <word hash="97c56e0fb97cc5a6a36ab804dc6b1ada38bea57afcf5ccda98da6df20ddef5fd" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Choufani Hayat ]]></source>
+    <translation><![CDATA[ Choufani Hayat ]]></translation>
+  </word>
+  <word hash="2997623ef71b85ed4a743bc7c2b29170c836748d3cc8d6b2f420188ef7b0f2d6" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Chrapaty P ]]></source>
+    <translation><![CDATA[ Chrapaty P ]]></translation>
+  </word>
+  <word hash="30702af4cb3ded53b5a50721dbbe5b3fdabfc543431efaa7ffecdb84ab6c20ff" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Chriki Khalid ]]></source>
+    <translation><![CDATA[ Khalid Chriki ]]></translation>
+  </word>
+  <word hash="fb4e19bc2a60f9c213256bc49f2c4ea1e32a5786b1355c37ffdb1ca541e2d9bd" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ D'alcantara Armand ]]></source>
+    <translation><![CDATA[ Armand D'alcantara ]]></translation>
+  </word>
+  <word hash="0cd69097b753acf4574235b29e0351339fa64fd9bebfcc13058a59340fea9c48" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Damiano Bernard ]]></source>
+    <translation><![CDATA[ Bernard Damiano ]]></translation>
+  </word>
+  <word hash="4532c341b882ba99d6afbdbb3f9d69641fd42039ffea689e83bbd4dc3d4071bb" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ Dammeron Catherine ]]></source>
+    <translation><![CDATA[ Catherine Dammeron ]]></translation>
+  </word>
+  <word hash="d7c7d32608ee67b17402b1808ee63c9dad9f46632598b8911d6afe03e028936d" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ De Groot J ]]></source>
+    <translation><![CDATA[ J De Groot ]]></translation>
+  </word>
+  <word hash="9b66d6acf0b0f79f77813c193bbd41a4aaaf341ae270ea43b1953366454ab311" date="2015-10-13T13:37:39+02:00">
+    <source><![CDATA[ El Afia Mohamed ]]></source>
+    <translation><![CDATA[ Mohamed El Afia ]]></translation>
+  </word>
+  <word hash="ffd90f83a9da152bda167547ed443b1848b9ce722aac08ce1387bcd30dacb830" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ El Harti Mustapha ]]></source>
+    <translation><![CDATA[ Mustapha El Harti ]]></translation>
+  </word>
+  <word hash="567e6c1d284c9264944b6adc749e4945c2f14df8c925039412949a1a0ebc649e" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ El Hayani Ahmed ]]></source>
+    <translation><![CDATA[ Ahmed El Hayani ]]></translation>
+  </word>
+  <word hash="65cf9f95714653d90a3a7465433864cdd0a1384b693ee2cffdaad6e2f432cc4f" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Essaoui Saida ]]></source>
+    <translation><![CDATA[ Essaoui Saida ]]></translation>
+  </word>
+  <word hash="c6ae77056003be697ee44c6dfd50f364e5417fed6a1496c4b525993b5dbdfc9a" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Falaki Bouchaib ]]></source>
+    <translation><![CDATA[ Falaki Bouchaib ]]></translation>
+  </word>
+  <word hash="c435f682154f7c613526d5815cf601949740a26e132f818a200d3ece442fab60" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Franc Patrick ]]></source>
+    <translation><![CDATA[ Patrick Franc ]]></translation>
+  </word>
+  <word hash="8ba7df0ac67c7eb806cee57cd4a778f39099efcb148b5e4d220c6ac46bfbfbdc" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Gilles Michel ]]></source>
+    <translation><![CDATA[ Gilles Michel ]]></translation>
+  </word>
+  <word hash="526e9bd2be581ddf790af6b414e95a10258d859d85f3788e4d4f3e00532e21a0" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Génisson Georges Paul ]]></source>
+    <translation><![CDATA[ Paul Georges Génisson ]]></translation>
+  </word>
+  <word hash="3770a54ede4889d0059464fbec6574d7fbe061729b6ea87d3e5b1d8a9bbc7118" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Haji Said ]]></source>
+    <translation><![CDATA[ Haji Said ]]></translation>
+  </word>
+  <word hash="264b168891976ede8234559f11747cf15e6c2f5b0874d4938775c0514d75bb50" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Hallouly El Mostafa ]]></source>
+    <translation><![CDATA[ El Mostafa Hallouly ]]></translation>
+  </word>
+  <word hash="3145c4143524eaf2871ab815477c5e4548dc4846b668844ae64ec5b5991cb7df" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Hariri Abdellah ]]></source>
+    <translation><![CDATA[ Abdellah Hariri ]]></translation>
+  </word>
+  <word hash="a14869571d3f98b23dc32f544ba20e0fc97abc7c4477f9d61ef5f955f2009e24" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Hasbaoui Imane ]]></source>
+    <translation><![CDATA[ Hasbaoui Imane ]]></translation>
+  </word>
+  <word hash="5fa30f834401d0e5a00ecb7442d1cfc1f7358446f5991db3759b62860f7c4782" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Horbaniuc Liana (Roumanie) ]]></source>
+    <translation><![CDATA[ Horbaniuc Liana (Romania) ]]></translation>
+  </word>
+  <word hash="359310aa77862cc38dacdf64ad38aa3803a9cf13ab68ad02e148a52234a5aca8" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Inkach Mohamed ]]></source>
+    <translation><![CDATA[ Mohamed Inkach ]]></translation>
+  </word>
+  <word hash="fd09e30c2657bd69f67055ca872863363327c34983f86bcae2e4c2853fb2751c" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Johnson Zuma ]]></source>
+    <translation><![CDATA[ Johnson Zuma ]]></translation>
+  </word>
+  <word hash="da42feb96e7ed6d73e4c63ef7cbd39d210383a6376b48ed3127119d3c4ef0350" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Khurshid Alam Saleem ]]></source>
+    <translation><![CDATA[ Saleem Khurshid Alam ]]></translation>
+  </word>
+  <word hash="669a37847d75899f76e3514cd9047a0f7a5f5de1ef351e98cb8fe6de4b669159" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Labrem Ahlem ]]></source>
+    <translation><![CDATA[ Labrem Ahlem ]]></translation>
+  </word>
+  <word hash="943aac04ed883464b5e38ee5a2438a3960292580c8947c6e9bcc403974797a10" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Maier Salomé ]]></source>
+    <translation><![CDATA[ Maier Salomé ]]></translation>
+  </word>
+  <word hash="37b47d5e4ab4f58766b086295d5cdac625b9aa4a76a3ecd09baeff95f76c3d1d" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Miró Joan ]]></source>
+    <translation><![CDATA[ Joan Miró ]]></translation>
+  </word>
+  <word hash="5e7d1a1e3f4f86605932d972c880278f9d35ee47f2875ff0dbf70585777fa419" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Moujlil Aziz ]]></source>
+    <translation><![CDATA[ Moujlil Aziz ]]></translation>
+  </word>
+  <word hash="d452d8518f0747b2866c192c9f6d4e5e935ea277dade2598275f46cede2d9a82" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Rahmani Abdelilah ]]></source>
+    <translation><![CDATA[ Rahmani Abdelilah ]]></translation>
+  </word>
+  <word hash="5f34d3266ef306fd5e47fb337c2e2419ea675a2f379e67d942111cc09c017b0f" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Rhommani Mustapha ]]></source>
+    <translation><![CDATA[ Mustapha Rhommani ]]></translation>
+  </word>
+  <word hash="8efe1fb566d5e09bc29047997c93effd58f8fc34ded07256d31a611bd10a3388" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Rousseau Henri Émilien ]]></source>
+    <translation><![CDATA[ Henri Emilien Rousseau ]]></translation>
+  </word>
+  <word hash="8e6c4002ccbf1d888b1ec73fcd65da3ecb97384abbac5d4d588c5879ef2627d5" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Saoud Samira ]]></source>
+    <translation><![CDATA[ Samira Saoud ]]></translation>
+  </word>
+  <word hash="720700ae7862fed3bb418b4eb7fa7ba62a0bc667e12345fb2b29a25ac2a141a0" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Valadié Jean-Baptiste ]]></source>
+    <translation><![CDATA[ Valadié Jean-Baptiste ]]></translation>
+  </word>
+  <word hash="f8be2989d5e99eb1100f1157ffd012110e91058c645132a4f7a8150bbfcc02ad" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Vernet Horace ]]></source>
+    <translation><![CDATA[ Horace Vernet ]]></translation>
+  </word>
+  <word hash="7c919a36e5cbd0766fbb29b27b76b638add48d53f230edf779a59535d4c92cce" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Warrak Mustapha ]]></source>
+    <translation><![CDATA[ Mustapha Warrak ]]></translation>
+  </word>
+  <word hash="19cb2f9b41f77827f13555a0aef3ae3ff6a95b12f4a4ca8ff2727fcd6f88c729" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[ Yamou Abderrahim ]]></source>
+    <translation><![CDATA[ Abderrahim Yamou ]]></translation>
+  </word>
+  <word hash="5da5fd32e9e6885ad8b8fe0caf1a4e156a610a28b872fb8f3af75c1880614fd3" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[“ Yamou Abderrahim ”]]></source>
+    <translation><![CDATA["Yamou Abderrahim"]]></translation>
+  </word>
+  <word hash="a5acfac572a4389db71ca7bcf31f369b8b602c8011033e7cb293f90f4a00c322" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Ronds de Yamou]]></source>
+    <translation><![CDATA[Round Yamou]]></translation>
+  </word>
+  <word hash="2cb10f43ece78c809e936ca9d5d3d0abb33a53180608c094980d16358d385933" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Haji Said]]></source>
+    <translation><![CDATA[Haji Said]]></translation>
+  </word>
+  <word hash="c981bf16fa48b7144ed592b41088be9a0553fa56914dd205bfa56cdfae1f8355" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Garnier]]></source>
+    <translation><![CDATA[Garnier]]></translation>
+  </word>
+  <word hash="5af9ff8aa5b4b2aa63dc6206ca001e0af39f3cbff5ccbe513a1db876f9bd3c88" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Bekkali Mokhtar]]></source>
+    <translation><![CDATA[Mokhtar Bekkali]]></translation>
+  </word>
+  <word hash="392f853c7e0f2a24fb0b98cfa56aa00e14348a9864432da674aca8b776285c1e" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Moujlil Aziz]]></source>
+    <translation><![CDATA[Moujlil Aziz]]></translation>
+  </word>
+  <word hash="d81685fe662832bace6f3f57e7e3a5dd5858e638747862ae372feeb3dfa8bfd3" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Chahidi]]></source>
+    <translation><![CDATA[Chahidi]]></translation>
+  </word>
+  <word hash="d098c9792088ff6395fc5303bb94fb8b7c46adad13f25e6fc9948cf1423ac3ba" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Krich Mohamed]]></source>
+    <translation><![CDATA[Mohamed krich]]></translation>
+  </word>
+  <word hash="b8f2b768876ce9ebc4f7cc06dfd0aba7679780f9984194c89fbff6d46718aa23" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[3 oeuvres publiées ]]></source>
+    <translation><![CDATA[3 published works ]]></translation>
+  </word>
+  <word hash="9089091f96d2cfef7203f256470dc5cdd387fba9b3af77b49d1f8577a96dd173" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Von Boris]]></source>
+    <translation><![CDATA[Von Boris]]></translation>
+  </word>
+  <word hash="ff352c34ce51a3393bcb7e0aabf391cde116a1850e878d8129f1c03113d4f1b2" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Mourahib Fatiha]]></source>
+    <translation><![CDATA[Mourahib Fatiha]]></translation>
+  </word>
+  <word hash="29db2b1278d05957a9572e8e8791c2d0b9f60b70057e2118e352c4ba759b828c" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Bongiovanni Roberto Youbi]]></source>
+    <translation><![CDATA[Roberto Bongiovanni Youbi]]></translation>
+  </word>
+  <word hash="5a0f25668bdf75e177bb5600034057463f226f133ae8bf1e31533e8174f85c0b" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Bouzerhoune Abdesslam]]></source>
+    <translation><![CDATA[Bouzerhoune Abdesslam]]></translation>
+  </word>
+  <word hash="0e15801d5216b7fc076a42ef1e453b715c910f8cb9e586acef36255665c03911" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Chouiyekh]]></source>
+    <translation><![CDATA[Chouiyekh]]></translation>
+  </word>
+  <word hash="10203eeb7e39ef62c7095b2c690a25b4cd9b6d03fd553abd7f89af8ed1e64cf3" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Romberg De Vaucorbeil Maurice]]></source>
+    <translation><![CDATA[Maurice Romberg De Vaucorbeil]]></translation>
+  </word>
+  <word hash="904ca2e9216c99d2154bddc49f2de142dc75ee6d6afb9954c29414e4678ab619" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Durel Jules Jean Gaston]]></source>
+    <translation><![CDATA[Durel Jules Jean Gaston]]></translation>
+  </word>
+  <word hash="e7638bcd30b4e9cc41abf3c922f8b6099d5022d833252a02e6bd731df104d9a6" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Muller Fritz]]></source>
+    <translation><![CDATA[Fritz Muller]]></translation>
+  </word>
+  <word hash="110f20bd703c3a7cfb74060fecb63f6058bc5cb617eb247f562c68bf34bbcbd8" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Pulicani Jean]]></source>
+    <translation><![CDATA[Jean PULICANI]]></translation>
+  </word>
+  <word hash="0de1e76969dc700532c50261c34c5440eb5e4300e2ff7af1f87993d20ba4331a" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Saduba]]></source>
+    <translation><![CDATA[Saduba]]></translation>
+  </word>
+  <word hash="d82ce0f26b5ec789cb09649ed1ef5f2c6e14518947dd5ce5c22c5faf91d94768" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Delaney]]></source>
+    <translation><![CDATA[Delaney]]></translation>
+  </word>
+  <word hash="ce37abb6e6d453f4caf06701786c4970494d3f3475d5f10ea643f2fe0549178b" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Ibrahimi Salah Eddine]]></source>
+    <translation><![CDATA[Salah Eddine Ibrahimi]]></translation>
+  </word>
+  <word hash="b8f2b768876ce9ebc4f7cc06dfd0aba7679780f9984194c89fbff6d46718aa23" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[3 oeuvres publiées ]]></source>
+    <translation><![CDATA[3 published works ]]></translation>
+  </word>
+  <word hash="90749640166eeef7f6dce82577f9942b722ad0031cd918cdd8516ee848bf4388" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Zine Abdellatif]]></source>
+    <translation><![CDATA[Abdellatif Zine]]></translation>
+  </word>
+  <word hash="c21e785a48d41ffb92ee3338db7cc6840d04bbc641aaebe4ee12dfcaf5293b85" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Frison Jehan]]></source>
+    <translation><![CDATA[Jehan Frisian]]></translation>
+  </word>
+  <word hash="1f562b4ce7b0039803d00329d0673eb3a60d86456fd25f5bab28ac5a153cef43" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Bensaid Lucien (Lubens)]]></source>
+    <translation><![CDATA[Bensaid Lucien (Lubens)]]></translation>
+  </word>
+  <word hash="6822cb8c4870de39e3d734ee5581cccdb4bc31e17b13ec2e07dcfaaa17ab0ee3" date="2015-10-13T13:37:40+02:00">
+    <source><![CDATA[Laghlimi Fatima]]></source>
+    <translation><![CDATA[Laghlimi Fatima]]></translation>
+  </word>
+  <word hash="bb258112fc4e8db589b4b9fc7de0f6eb98336f5f4e66dfdf44a1192903d8aaed" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Tijani B]]></source>
+    <translation><![CDATA[Tijani B]]></translation>
+  </word>
+  <word hash="410fd44f8017dd61f1776349f962212ec7829dad189e159df3fea78a44512609" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Douieb Hamid]]></source>
+    <translation><![CDATA[Douieb Hamid]]></translation>
+  </word>
+  <word hash="b44b8e541faa928b9255c37d67554f69d1be7342122c90f9be22f625ab72e032" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Chraibi Amina]]></source>
+    <translation><![CDATA[Amina chraibi]]></translation>
+  </word>
+  <word hash="a8e76700ffaa62f2213d6972a8432a623ac664003aea07e319868cea985d31fe" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Gilles Michel]]></source>
+    <translation><![CDATA[Gilles Michel]]></translation>
+  </word>
+  <word hash="c2cb484ce3cea2bae86693e4aa351e634c425e30f96b0e81771558d4e37b1280" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Ribet Jacqueline]]></source>
+    <translation><![CDATA[Jacqueline Ribet]]></translation>
+  </word>
+  <word hash="5c59bc98c3049313c5d88921d23f1900478c955c26be22205d582c8c2480d9d6" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Farkhani]]></source>
+    <translation><![CDATA[Farkhani]]></translation>
+  </word>
+  <word hash="73d45bb1f7b5a4994e661ebda40d1fc1d76b2034d90ccb80dade5b38a3fd6501" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Willaert Ferdinand]]></source>
+    <translation><![CDATA[Ferdinand Willaert]]></translation>
+  </word>
+  <word hash="b837798b8a81f02c0ff8ef3cea0bc13a430113999e42717dec418038d35bca82" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[O. Amal]]></source>
+    <translation><![CDATA[Amal O.]]></translation>
+  </word>
+  <word hash="c8c4580f9a589aaaaf3b4d3d22020059d70340679bf8b649ee76fa9e727d6514" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Vilain Jorge]]></source>
+    <translation><![CDATA[Vilain Jorge]]></translation>
+  </word>
+  <word hash="73bfca284f94e87bb2172ac4abfa9235caec0fc0d9500a1a3277d8a04963f1a7" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Arnal]]></source>
+    <translation><![CDATA[Arnal]]></translation>
+  </word>
+  <word hash="85d98f8eb54c136ef7dbda54fd90dc37dde384ca197ac35e7bcf877b23d8c656" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Greenwood Nathalie]]></source>
+    <translation><![CDATA[Greenwood Nathalie]]></translation>
+  </word>
+  <word hash="e991485dfa6aa80b5d00650da026f2ad6f10f2fb5eb8cefe57f6f8cd8c144dc2" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Nait Addi Abdellatif]]></source>
+    <translation><![CDATA[Nait Addi Abdellatif]]></translation>
+  </word>
+  <word hash="2162f92e3b4010cf236e0442ea7008ba13967285a5742846e84fba5dad5865ed" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Choufani Hayat]]></source>
+    <translation><![CDATA[Choufani Hayat]]></translation>
+  </word>
+  <word hash="98fec442c414dba37d389bff421e4bd3f2aafdf7f7e195191e9a01a6c77cfad9" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Lenka (Russie)]]></source>
+    <translation><![CDATA[Lenka (Russia)]]></translation>
+  </word>
+  <word hash="393b8c45ea4b8678cbf14327df04c7fd958d0b05efef94f0b84d39a26caa9652" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[3 oeuvres publiée]]></source>
+    <translation><![CDATA[3 published works]]></translation>
+  </word>
+  <word hash="b132963003cc3f4c7f5b307f0b74a76c48d759f45cfd32155e62a5f75149b27b" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Jeronimo Muniz]]></source>
+    <translation><![CDATA[Jeronimo Muniz]]></translation>
+  </word>
+  <word hash="ba2da77308e1c9eed0fb6129ed4a6c1cf7ad4d42656ac6025dd1910882bd9aaf" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Casellas Alonso]]></source>
+    <translation><![CDATA[Casellas Alonso]]></translation>
+  </word>
+  <word hash="bdbaeb78df66e361630191f455417ec5cbf0d27775fc95ca7b28f640319eb123" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Rosalia Ina]]></source>
+    <translation><![CDATA[Rosalia Ina]]></translation>
+  </word>
+  <word hash="d0ee50feb9e3e6a49426045a5122e2586e8a9ec35496c67fefeea48ae4662ca0" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Amjahdi Nazha]]></source>
+    <translation><![CDATA[Amjahdi Nazha]]></translation>
+  </word>
+  <word hash="2370c23e5b396ca71e23a7f08c3e857d6d498d8d2edaac18dadb22accaaaba81" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Cossard Adolphe]]></source>
+    <translation><![CDATA[Adolphe Cossard]]></translation>
+  </word>
+  <word hash="ef08951908a1e44de0ac06d43ded2f9f7094df5400bdaefeeb2fc6d77da2b146" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Laurent Jean-Emile]]></source>
+    <translation><![CDATA[Laurent Jean-Emile]]></translation>
+  </word>
+  <word hash="a58b1b25742cc72f9f7bd29b978e866874fb3599ac08159863b2d20060f3b18a" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Bakri Saleh]]></source>
+    <translation><![CDATA[Saleh Bakri]]></translation>
+  </word>
+  <word hash="f434a8e1bba8ffbc76f4f5671ef6438306b1953e73e13310516900232d0f7167" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Akesbi Ouafae]]></source>
+    <translation><![CDATA[Akesbi Ouafae]]></translation>
+  </word>
+  <word hash="b8d3b209d6f3be3a1184b4a8134239e1dd84e2c95105045d84d70182e22a38c4" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Al Kassab Fatima]]></source>
+    <translation><![CDATA[Fatima Al Kassab]]></translation>
+  </word>
+  <word hash="ad76502a764f3c2a6cd03ddb815f9b1e044eaeea341db741369aae84eab31140" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Sabri Maati]]></source>
+    <translation><![CDATA[Sabri Maati]]></translation>
+  </word>
+  <word hash="393b8c45ea4b8678cbf14327df04c7fd958d0b05efef94f0b84d39a26caa9652" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[3 oeuvres publiée]]></source>
+    <translation><![CDATA[3 published works]]></translation>
+  </word>
+  <word hash="3f276701f633f874d6a0dde2bd3dcc7eb4c61526519d2a7a8bf7164a8c548082" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Douah Mohamed]]></source>
+    <translation><![CDATA[Mohamed Douah]]></translation>
+  </word>
+  <word hash="bb258112fc4e8db589b4b9fc7de0f6eb98336f5f4e66dfdf44a1192903d8aaed" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Tijani B]]></source>
+    <translation><![CDATA[Tijani B]]></translation>
+  </word>
+  <word hash="410fd44f8017dd61f1776349f962212ec7829dad189e159df3fea78a44512609" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Douieb Hamid]]></source>
+    <translation><![CDATA[Douieb Hamid]]></translation>
+  </word>
+  <word hash="b44b8e541faa928b9255c37d67554f69d1be7342122c90f9be22f625ab72e032" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Chraibi Amina]]></source>
+    <translation><![CDATA[Amina chraibi]]></translation>
+  </word>
+  <word hash="a8e76700ffaa62f2213d6972a8432a623ac664003aea07e319868cea985d31fe" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Gilles Michel]]></source>
+    <translation><![CDATA[Gilles Michel]]></translation>
+  </word>
+  <word hash="c2cb484ce3cea2bae86693e4aa351e634c425e30f96b0e81771558d4e37b1280" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Ribet Jacqueline]]></source>
+    <translation><![CDATA[Jacqueline Ribet]]></translation>
+  </word>
+  <word hash="5c59bc98c3049313c5d88921d23f1900478c955c26be22205d582c8c2480d9d6" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Farkhani]]></source>
+    <translation><![CDATA[Farkhani]]></translation>
+  </word>
+  <word hash="73d45bb1f7b5a4994e661ebda40d1fc1d76b2034d90ccb80dade5b38a3fd6501" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Willaert Ferdinand]]></source>
+    <translation><![CDATA[Ferdinand Willaert]]></translation>
+  </word>
+  <word hash="b837798b8a81f02c0ff8ef3cea0bc13a430113999e42717dec418038d35bca82" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[O. Amal]]></source>
+    <translation><![CDATA[Amal O.]]></translation>
+  </word>
+  <word hash="c8c4580f9a589aaaaf3b4d3d22020059d70340679bf8b649ee76fa9e727d6514" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Vilain Jorge]]></source>
+    <translation><![CDATA[Vilain Jorge]]></translation>
+  </word>
+  <word hash="73bfca284f94e87bb2172ac4abfa9235caec0fc0d9500a1a3277d8a04963f1a7" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Arnal]]></source>
+    <translation><![CDATA[Arnal]]></translation>
+  </word>
+  <word hash="85d98f8eb54c136ef7dbda54fd90dc37dde384ca197ac35e7bcf877b23d8c656" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Greenwood Nathalie]]></source>
+    <translation><![CDATA[Greenwood Nathalie]]></translation>
+  </word>
+  <word hash="e991485dfa6aa80b5d00650da026f2ad6f10f2fb5eb8cefe57f6f8cd8c144dc2" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Nait Addi Abdellatif]]></source>
+    <translation><![CDATA[Nait Addi Abdellatif]]></translation>
+  </word>
+  <word hash="2162f92e3b4010cf236e0442ea7008ba13967285a5742846e84fba5dad5865ed" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Choufani Hayat]]></source>
+    <translation><![CDATA[Choufani Hayat]]></translation>
+  </word>
+  <word hash="98fec442c414dba37d389bff421e4bd3f2aafdf7f7e195191e9a01a6c77cfad9" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Lenka (Russie)]]></source>
+    <translation><![CDATA[Lenka (Russia)]]></translation>
+  </word>
+  <word hash="b132963003cc3f4c7f5b307f0b74a76c48d759f45cfd32155e62a5f75149b27b" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Jeronimo Muniz]]></source>
+    <translation><![CDATA[Jeronimo Muniz]]></translation>
+  </word>
+  <word hash="ba2da77308e1c9eed0fb6129ed4a6c1cf7ad4d42656ac6025dd1910882bd9aaf" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Casellas Alonso]]></source>
+    <translation><![CDATA[Casellas Alonso]]></translation>
+  </word>
+  <word hash="bdbaeb78df66e361630191f455417ec5cbf0d27775fc95ca7b28f640319eb123" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Rosalia Ina]]></source>
+    <translation><![CDATA[Rosalia Ina]]></translation>
+  </word>
+  <word hash="d0ee50feb9e3e6a49426045a5122e2586e8a9ec35496c67fefeea48ae4662ca0" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Amjahdi Nazha]]></source>
+    <translation><![CDATA[Amjahdi Nazha]]></translation>
+  </word>
+  <word hash="2370c23e5b396ca71e23a7f08c3e857d6d498d8d2edaac18dadb22accaaaba81" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Cossard Adolphe]]></source>
+    <translation><![CDATA[Adolphe Cossard]]></translation>
+  </word>
+  <word hash="ef08951908a1e44de0ac06d43ded2f9f7094df5400bdaefeeb2fc6d77da2b146" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Laurent Jean-Emile]]></source>
+    <translation><![CDATA[Laurent Jean-Emile]]></translation>
+  </word>
+  <word hash="a58b1b25742cc72f9f7bd29b978e866874fb3599ac08159863b2d20060f3b18a" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Bakri Saleh]]></source>
+    <translation><![CDATA[Saleh Bakri]]></translation>
+  </word>
+  <word hash="f434a8e1bba8ffbc76f4f5671ef6438306b1953e73e13310516900232d0f7167" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Akesbi Ouafae]]></source>
+    <translation><![CDATA[Akesbi Ouafae]]></translation>
+  </word>
+  <word hash="b8d3b209d6f3be3a1184b4a8134239e1dd84e2c95105045d84d70182e22a38c4" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Al Kassab Fatima]]></source>
+    <translation><![CDATA[Fatima Al Kassab]]></translation>
+  </word>
+  <word hash="ad76502a764f3c2a6cd03ddb815f9b1e044eaeea341db741369aae84eab31140" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Sabri Maati]]></source>
+    <translation><![CDATA[Sabri Maati]]></translation>
+  </word>
+  <word hash="3f276701f633f874d6a0dde2bd3dcc7eb4c61526519d2a7a8bf7164a8c548082" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Douah Mohamed]]></source>
+    <translation><![CDATA[Mohamed Douah]]></translation>
+  </word>
+  <word hash="86060fe8cf738f0321c5e100386173a952e11eb341c8e421dd3cb7f2a2944379" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Bennani N]]></source>
+    <translation><![CDATA[Bennani N]]></translation>
+  </word>
+  <word hash="a3e05e7a3a47ac8887f67dc87d97a069a3e23ebe43a9f997c88f5604d8c3e45f" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[D'alcantara Armand]]></source>
+    <translation><![CDATA[Armand D'alcantara]]></translation>
+  </word>
+  <word hash="7dd131ab94e43ae54e43a1bfe7cf2071d03956f8490192d16f76e2a0f459116d" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Inkach Mohamed]]></source>
+    <translation><![CDATA[Mohamed Inkach]]></translation>
+  </word>
+  <word hash="fc5ba54a93832deb73de6cd85274c908d522d410a02c878ccc5e97462a224f13" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Jantet E]]></source>
+    <translation><![CDATA[E Jantet]]></translation>
+  </word>
+  <word hash="a9ef24ab07af3ddbb05d452ae129ee8aea4e30f344250e8706477bd22dd05a51" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Melikoff Athanase Loris]]></source>
+    <translation><![CDATA[Melikoff Athanasius Loris]]></translation>
+  </word>
+  <word hash="e7e8d44fc992c972caf2982ff83c296a6043496f1cabebcb77efaf73e5cf5666" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Mounzil Samira]]></source>
+    <translation><![CDATA[Samira Mounzil]]></translation>
+  </word>
+  <word hash="1ad14d23f73a3e2be2639f26c6235fd7d80bcf39404536864fad188033be5733" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Bargach El Batoul]]></source>
+    <translation><![CDATA[Bargach El Batoul]]></translation>
+  </word>
+  <word hash="2fe0487235d67ab6e5ad30552ed2f055a18933af381d73ed0b554e5894844f1d" date="2015-10-13T13:37:41+02:00">
+    <source><![CDATA[Zabbita Ahmed]]></source>
+    <translation><![CDATA[Ahmed Zabbita]]></translation>
+  </word>
+  <word hash="5cc844a66d7855cec9c64f4cb48e3eb8f36b6087a707cba837d34bb8a3a9de98" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[Al Raudhy Amira]]></source>
+    <translation><![CDATA[Amira Al Raudhy]]></translation>
+  </word>
+  <word hash="432ee4555194e7f6cbdf5fedf6c9227e47099d3e33fd6eecaf40bc2ec65f6ea0" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[Schmidt W]]></source>
+    <translation><![CDATA[W Schmidt]]></translation>
+  </word>
+  <word hash="f55a2da3fb48bc4a7d390d78de20675d2f06416421e9f6ec73cf90b23e06eaf9" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[Benmalek Abdelmoula]]></source>
+    <translation><![CDATA[Benmalek Abdelmoula]]></translation>
+  </word>
+  <word hash="d9f7f071a23d8220f0c074071fa91022b08d063452053c97355548f832723126" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[Rossi N]]></source>
+    <translation><![CDATA[Rossi N]]></translation>
+  </word>
+  <word hash="44151a383e6eab42bf7669bc599e8da9d9ac333d0b397543a9d8b530a6031d75" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[Seideler (Paul de)]]></source>
+    <translation><![CDATA[Seideler (Paul)]]></translation>
+  </word>
+  <word hash="3984cba7b324475ed78da4e79f8fb54613ec7c6a6e56cf1de1d1b71b9e7ed7fb" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[De Groot J]]></source>
+    <translation><![CDATA[J De Groot]]></translation>
+  </word>
+  <word hash="393b8c45ea4b8678cbf14327df04c7fd958d0b05efef94f0b84d39a26caa9652" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[3 oeuvres publiée]]></source>
+    <translation><![CDATA[3 published works]]></translation>
+  </word>
+  <word hash="393b8c45ea4b8678cbf14327df04c7fd958d0b05efef94f0b84d39a26caa9652" date="2015-10-13T13:37:42+02:00">
+    <source><![CDATA[3 oeuvres publiée]]></source>
+    <translation><![CDATA[3 published works]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[March]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[April]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[May]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[Jui]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[July]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[Aug]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[September]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[October]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[November]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[December]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[October 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[Di]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[Read]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[My]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[Me]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[I]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[Ve]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[Its]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[January]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[February]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[March]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[April]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[May]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[Jui]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[July]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[Aug]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[September]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[October]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[November]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[December]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[October 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[Di]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[Read]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[My]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[Me]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[I]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[Ve]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[Its]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[January]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[February]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[March]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[April]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[May]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[Jui]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[July]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[Aug]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[September]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[October]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[November]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[December]]></translation>
+  </word>
+  <word hash="6d0c3ba20469e44bf8818f9c5a8666d42f04714b34afe0e5216079ccefd2fcfa" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Retourner à la version originale]]></source>
+    <translation><![CDATA[Return to the original version]]></translation>
+  </word>
+  <word hash="533161735639c51adb4623f3780b497601d7b82108e6f03f5b65b5dd4c89f616" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Accueil]]></source>
+    <translation><![CDATA[Welcome]]></translation>
+  </word>
+  <word hash="c9f39af6d274555b8943776213e6cd454fa9329613527acc842ef3c5d3b59fab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes]]></source>
+    <translation><![CDATA[Artists]]></translation>
+  </word>
+  <word hash="afbd64c6f0a6033ac0b096883f3d79bc6119a5db998cab53c4e743129361b6b9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oeuvres]]></source>
+    <translation><![CDATA[Artworks]]></translation>
+  </word>
+  <word hash="03638578bbd9ccfad38be8ab35dbd84b2d5f2b445633e16444207a00e5e5bd1c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Actualités & Evénements]]></source>
+    <translation><![CDATA[News & Events]]></translation>
+  </word>
+  <word hash="a7562b543d289521cf9b076a0ba13780dd3c758d3400d9af760642d5795ef80a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Espace Membres]]></source>
+    <translation><![CDATA[Members Area]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contact]]></translation>
+  </word>
+  <word hash="9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[aaa]]></source>
+    <translation><![CDATA[aaa]]></translation>
+  </word>
+  <word hash="3e744b9dc39389baf0c5a0660589b8402f3dbb49b89b3e75f2c9355852a3c677" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[bbb]]></source>
+    <translation><![CDATA[bbb]]></translation>
+  </word>
+  <word hash="30904c9d4a388ffc1a92594108f7dc4127f99836d682de310e8f708df6cc973c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Type d’oeuvre]]></source>
+    <translation><![CDATA[Type of work]]></translation>
+  </word>
+  <word hash="d70a538700f1a52db7ed72fad9d79d8df00f82b7761d6d50c608aa75f7f2f228" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tableaux]]></source>
+    <translation><![CDATA[Paintings]]></translation>
+  </word>
+  <word hash="a0dd275522480fe0b649cfe1d45db27553b20b112737c221e7200869aa6343a2" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sculptures]]></source>
+    <translation><![CDATA[Sculptures]]></translation>
+  </word>
+  <word hash="1dfe9009cbb57c7fdcfeb21ac93bdeecc1c182ae67bde20174fa61feddb73b9d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Photographies]]></source>
+    <translation><![CDATA[Photographs]]></translation>
+  </word>
+  <word hash="24de740307de4103b9995c29faa3561cfc8d6964ee50d3b06cd5bc5892873623" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Bijoux]]></source>
+    <translation><![CDATA[Jewelry]]></translation>
+  </word>
+  <word hash="c86043fa5223223d9e8413e5642446ac4eb4a1dedce8a25013c43dade6627337" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Livres]]></source>
+    <translation><![CDATA[Books]]></translation>
+  </word>
+  <word hash="0ab7b9280ac4e92f0c249120f51a34180fbf8c71cdddb1256071b4ca47a0bb36" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Objets de décoration]]></source>
+    <translation><![CDATA[Decorative objects]]></translation>
+  </word>
+  <word hash="96f027e3b6f133d9793e4aa91df56432189a3f88a98bf803ba2eb6c235ac8846" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Caftans]]></source>
+    <translation><![CDATA[Kaftans]]></translation>
+  </word>
+  <word hash="9b30f6fc29dc436c818ab567f453a33f25580567aa86d056689ac7f0f1e36e4d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Meubles]]></source>
+    <translation><![CDATA[Furniture]]></translation>
+  </word>
+  <word hash="4aba30ea7091aa12e56129bc6a10ef406ce1f0d53c7aaf3a612b1c83b5cb2fac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tapis]]></source>
+    <translation><![CDATA[Carpet]]></translation>
+  </word>
+  <word hash="7e744141b40ea5501412e42c8b40fd0b05f1608aa2e4073944ccccbd82f24ee8" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Style]]></source>
+    <translation><![CDATA[Style]]></translation>
+  </word>
+  <word hash="ea2049ce73dc464f4f449f4a570e8f16862bb2225bff80a1c07e2ccbabca49ac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Moderne]]></source>
+    <translation><![CDATA[Modern]]></translation>
+  </word>
+  <word hash="2cadfd0670fee83a2927cf9b7116de486bed6f22e8c7cfc920082d8f71f4e492" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Figuratif]]></source>
+    <translation><![CDATA[Figurative]]></translation>
+  </word>
+  <word hash="5c3ebdc5196a864d061f40466f7d3be602142a705667261da2dba32d595f6a5f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Abstrait]]></source>
+    <translation><![CDATA[Abstract]]></translation>
+  </word>
+  <word hash="24ca2dd86e53f37d4a7c159164de32a42c7f99b432e766de0fe29b077dfffdf0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Naif/Primitif]]></source>
+    <translation><![CDATA[Naive / Primitive]]></translation>
+  </word>
+  <word hash="282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[eee]]></source>
+    <translation><![CDATA[eee]]></translation>
+  </word>
+  <word hash="30904c9d4a388ffc1a92594108f7dc4127f99836d682de310e8f708df6cc973c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Type d’oeuvre]]></source>
+    <translation><![CDATA[Type of work]]></translation>
+  </word>
+  <word hash="d70a538700f1a52db7ed72fad9d79d8df00f82b7761d6d50c608aa75f7f2f228" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tableaux]]></source>
+    <translation><![CDATA[Paintings]]></translation>
+  </word>
+  <word hash="a0dd275522480fe0b649cfe1d45db27553b20b112737c221e7200869aa6343a2" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sculptures]]></source>
+    <translation><![CDATA[Sculptures]]></translation>
+  </word>
+  <word hash="1dfe9009cbb57c7fdcfeb21ac93bdeecc1c182ae67bde20174fa61feddb73b9d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Photographies]]></source>
+    <translation><![CDATA[Photographs]]></translation>
+  </word>
+  <word hash="24de740307de4103b9995c29faa3561cfc8d6964ee50d3b06cd5bc5892873623" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Bijoux]]></source>
+    <translation><![CDATA[Jewelry]]></translation>
+  </word>
+  <word hash="c86043fa5223223d9e8413e5642446ac4eb4a1dedce8a25013c43dade6627337" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Livres]]></source>
+    <translation><![CDATA[Books]]></translation>
+  </word>
+  <word hash="0ab7b9280ac4e92f0c249120f51a34180fbf8c71cdddb1256071b4ca47a0bb36" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Objets de décoration]]></source>
+    <translation><![CDATA[Decorative objects]]></translation>
+  </word>
+  <word hash="96f027e3b6f133d9793e4aa91df56432189a3f88a98bf803ba2eb6c235ac8846" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Caftans]]></source>
+    <translation><![CDATA[Kaftans]]></translation>
+  </word>
+  <word hash="9b30f6fc29dc436c818ab567f453a33f25580567aa86d056689ac7f0f1e36e4d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Meubles]]></source>
+    <translation><![CDATA[Furniture]]></translation>
+  </word>
+  <word hash="4aba30ea7091aa12e56129bc6a10ef406ce1f0d53c7aaf3a612b1c83b5cb2fac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tapis]]></source>
+    <translation><![CDATA[Carpet]]></translation>
+  </word>
+  <word hash="7e744141b40ea5501412e42c8b40fd0b05f1608aa2e4073944ccccbd82f24ee8" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Style]]></source>
+    <translation><![CDATA[Style]]></translation>
+  </word>
+  <word hash="ea2049ce73dc464f4f449f4a570e8f16862bb2225bff80a1c07e2ccbabca49ac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Moderne]]></source>
+    <translation><![CDATA[Modern]]></translation>
+  </word>
+  <word hash="2cadfd0670fee83a2927cf9b7116de486bed6f22e8c7cfc920082d8f71f4e492" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Figuratif]]></source>
+    <translation><![CDATA[Figurative]]></translation>
+  </word>
+  <word hash="5c3ebdc5196a864d061f40466f7d3be602142a705667261da2dba32d595f6a5f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Abstrait]]></source>
+    <translation><![CDATA[Abstract]]></translation>
+  </word>
+  <word hash="24ca2dd86e53f37d4a7c159164de32a42c7f99b432e766de0fe29b077dfffdf0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Naif/Primitif]]></source>
+    <translation><![CDATA[Naive / Primitive]]></translation>
+  </word>
+  <word hash="f284bdc3c1c9e24a494e285cb387c69510f28de51c15bb93179d9c7f28705398" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[fff]]></source>
+    <translation><![CDATA[fff]]></translation>
+  </word>
+  <word hash="30904c9d4a388ffc1a92594108f7dc4127f99836d682de310e8f708df6cc973c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Type d’oeuvre]]></source>
+    <translation><![CDATA[Type of work]]></translation>
+  </word>
+  <word hash="d70a538700f1a52db7ed72fad9d79d8df00f82b7761d6d50c608aa75f7f2f228" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tableaux]]></source>
+    <translation><![CDATA[Paintings]]></translation>
+  </word>
+  <word hash="a0dd275522480fe0b649cfe1d45db27553b20b112737c221e7200869aa6343a2" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sculptures]]></source>
+    <translation><![CDATA[Sculptures]]></translation>
+  </word>
+  <word hash="1dfe9009cbb57c7fdcfeb21ac93bdeecc1c182ae67bde20174fa61feddb73b9d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Photographies]]></source>
+    <translation><![CDATA[Photographs]]></translation>
+  </word>
+  <word hash="24de740307de4103b9995c29faa3561cfc8d6964ee50d3b06cd5bc5892873623" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Bijoux]]></source>
+    <translation><![CDATA[Jewelry]]></translation>
+  </word>
+  <word hash="c86043fa5223223d9e8413e5642446ac4eb4a1dedce8a25013c43dade6627337" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Livres]]></source>
+    <translation><![CDATA[Books]]></translation>
+  </word>
+  <word hash="0ab7b9280ac4e92f0c249120f51a34180fbf8c71cdddb1256071b4ca47a0bb36" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Objets de décoration]]></source>
+    <translation><![CDATA[Decorative objects]]></translation>
+  </word>
+  <word hash="96f027e3b6f133d9793e4aa91df56432189a3f88a98bf803ba2eb6c235ac8846" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Caftans]]></source>
+    <translation><![CDATA[Kaftans]]></translation>
+  </word>
+  <word hash="9b30f6fc29dc436c818ab567f453a33f25580567aa86d056689ac7f0f1e36e4d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Meubles]]></source>
+    <translation><![CDATA[Furniture]]></translation>
+  </word>
+  <word hash="4aba30ea7091aa12e56129bc6a10ef406ce1f0d53c7aaf3a612b1c83b5cb2fac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tapis]]></source>
+    <translation><![CDATA[Carpet]]></translation>
+  </word>
+  <word hash="7e744141b40ea5501412e42c8b40fd0b05f1608aa2e4073944ccccbd82f24ee8" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Style]]></source>
+    <translation><![CDATA[Style]]></translation>
+  </word>
+  <word hash="ea2049ce73dc464f4f449f4a570e8f16862bb2225bff80a1c07e2ccbabca49ac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Moderne]]></source>
+    <translation><![CDATA[Modern]]></translation>
+  </word>
+  <word hash="2cadfd0670fee83a2927cf9b7116de486bed6f22e8c7cfc920082d8f71f4e492" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Figuratif]]></source>
+    <translation><![CDATA[Figurative]]></translation>
+  </word>
+  <word hash="5c3ebdc5196a864d061f40466f7d3be602142a705667261da2dba32d595f6a5f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Abstrait]]></source>
+    <translation><![CDATA[Abstract]]></translation>
+  </word>
+  <word hash="24ca2dd86e53f37d4a7c159164de32a42c7f99b432e766de0fe29b077dfffdf0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Naif/Primitif]]></source>
+    <translation><![CDATA[Naive / Primitive]]></translation>
+  </word>
+  <word hash="64daa44ad493ff28a96effab6e77f1732a3d97d83241581b37dbd70a7a4900fe" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ccc]]></source>
+    <translation><![CDATA[ccc]]></translation>
+  </word>
+  <word hash="32769cddb45ecf84d6e5a064d4a1da6f87733a3cc12b719dc93a692e5413026e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Type d’événement]]></source>
+    <translation><![CDATA[Event Type]]></translation>
+  </word>
+  <word hash="41cf868df71a86fd977435508684bbefd9dfa3217d16ca4805bb33fd1f04670d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage]]></source>
+    <translation><![CDATA[Varnishing]]></translation>
+  </word>
+  <word hash="25654978c258e8977a9f1ff62fd1de2b603692766286bfd9219ef58d1d55951a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Exposition photo]]></source>
+    <translation><![CDATA[Photo Exhibition]]></translation>
+  </word>
+  <word hash="590c214a54235c344806f1ae2dd0668c37343cf2743b0088f37da3b51ef81e2e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Festival]]></source>
+    <translation><![CDATA[Festival]]></translation>
+  </word>
+  <word hash="4c653e4367156670108d85f3ec2d5c21b82a5bfc05f16ca3b7d3a898c1549c51" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Conférence et Galas]]></source>
+    <translation><![CDATA[Conference and Galas]]></translation>
+  </word>
+  <word hash="4e353fada1e9d693426636327785ae70ae605ea5d85f3a4552cb0280c684b576" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Salon]]></source>
+    <translation><![CDATA[Lounge]]></translation>
+  </word>
+  <word hash="eaa2318178c83b85c5aa677eb3ef6be74372b36353b33a3921ba83b2c4624cf1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Autres]]></source>
+    <translation><![CDATA[Other]]></translation>
+  </word>
+  <word hash="1d3312d846c828a266e1b071917edf27ef00a045253fb737936f6ccf033c5bd0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Recherche avancée]]></source>
+    <translation><![CDATA[Advanced search]]></translation>
+  </word>
+  <word hash="c9f39af6d274555b8943776213e6cd454fa9329613527acc842ef3c5d3b59fab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes]]></source>
+    <translation><![CDATA[Artists]]></translation>
+  </word>
+  <word hash="50773b965dbc940602a9c2cc0b13a6802ca857c77300050670f5f982c8a3468b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[artiste]]></source>
+    <translation><![CDATA[artist]]></translation>
+  </word>
+  <word hash="afbd64c6f0a6033ac0b096883f3d79bc6119a5db998cab53c4e743129361b6b9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oeuvres]]></source>
+    <translation><![CDATA[Artworks]]></translation>
+  </word>
+  <word hash="649ba70fc6d5ae51430ed4bd75aa4da27242105db74adada4b4db59b6c5ba36d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[oeuvre]]></source>
+    <translation><![CDATA[artwork]]></translation>
+  </word>
+  <word hash="491fcd2476a6a79dd8eda78ea29fb01b6c1996ca8605e6402fc5d0fe2d3b2331" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evénements]]></source>
+    <translation><![CDATA[Events]]></translation>
+  </word>
+  <word hash="121eee816e406947519031809e1c14825ea4d7afb91797d8f4bf80bf2f485a48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evenement]]></source>
+    <translation><![CDATA[Event]]></translation>
+  </word>
+  <word hash="31ae90c5df721c5e4e18309d5f97c61e5f770c31774ac3bd683c2ea77268b325" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ En savoir plus . . .]]></source>
+    <translation><![CDATA[ Learn more. . .]]></translation>
+  </word>
+  <word hash="15d11a2ce35f5ba654703fffe96866927e817667ca477bf753bc808104709ec4" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Exposition permanente : Jilali Gharbaoui - Collection Louis Morère]]></source>
+    <translation><![CDATA[Permanent exhibition: Jilali Gharbaoui - Collection Louis Morère]]></translation>
+  </word>
+  <word hash="64c8abd6fe48227b05d8d9526ac793dec2aa3b82c53315605f8baef280fb5be3" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[La Fondation ONA ouvre son exposition permanente et met à l’honneur le premier peintre non guratif marocain : Jilali Gharbaoui. Disparu de façon pr& ...]]></source>
+    <translation><![CDATA[The ONA Foundation opens its permanent exhibition and celebrates the first non-Moroccan painter gurative: Jilali Gharbaoui. Disappeared so pr & ...]]></translation>
+  </word>
+  <word hash="31ae90c5df721c5e4e18309d5f97c61e5f770c31774ac3bd683c2ea77268b325" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ En savoir plus . . .]]></source>
+    <translation><![CDATA[ Learn more. . .]]></translation>
+  </word>
+  <word hash="49dcb3a471a81bb8d1b5267eaa76fc97dd56d405c21a38106dd7c3b541962435" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage Moulay Youssef Elkahfai]]></source>
+    <translation><![CDATA[Opening Moulay Youssef Elkahfai]]></translation>
+  </word>
+  <word hash="e1ea01d0db7c54b614b5d125f4920f39706b26f8a3f6331b18749d1dee0c73fb" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[My Youssef Elkahfai présente son œuvre graphique , synergie entre peinture et gravure. Cet événement est organisé dans un cadre culturel ...]]></source>
+    <translation><![CDATA[My Youssef Elkahfai present his graphic work, synergy between painting and engraving. This event is organized in a cultural context ...]]></translation>
+  </word>
+  <word hash="31ae90c5df721c5e4e18309d5f97c61e5f770c31774ac3bd683c2ea77268b325" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ En savoir plus . . .]]></source>
+    <translation><![CDATA[ Learn more. . .]]></translation>
+  </word>
+  <word hash="3371fd97d11bdb192002f131fb527a384c50c3125a28565178d68b91c86e930d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage de Abdelkader Rhorbal : Une Clé / Une énigme]]></source>
+    <translation><![CDATA[Opening of Abdelkader Rhorbal: A Key / Enigma]]></translation>
+  </word>
+  <word hash="09a7700133c9b6fd82056a87ebff63269247cd68801f153969771d44e82d075b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Le Ministère de la culture organise une Exposition de l’artiste Abdelkader Rhorbal « Une Clef une énigme » à la Galerie Bab El K&e ...]]></source>
+    <translation><![CDATA[The Ministry of Culture is organizing an Exhibition of the artist Abdelkader Rhorbal "A Clef an enigma" on El Bab Gallery K & e ...]]></translation>
+  </word>
+  <word hash="a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Previous]]></source>
+    <translation><![CDATA[Previous]]></translation>
+  </word>
+  <word hash="1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Next]]></source>
+    <translation><![CDATA[Next]]></translation>
+  </word>
+  <word hash="1a20ffa01ca5e4025afc8d7941502b9b67c810c999ff8bf1c14a2ef0b2a9c62e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes Vedettes]]></source>
+    <translation><![CDATA[Featured Artists]]></translation>
+  </word>
+  <word hash="7cf5c35721d777abdfb496fb73b8ae29646d7737bf288a95e37800bb84b509ef" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ammor Leila]]></source>
+    <translation><![CDATA[Leila Ammor]]></translation>
+  </word>
+  <word hash="e7f7a4a36701a579e8ff5a6ff3de5c72778533828b536c871270029ebd0f8d3b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Rhorbal Abdelkader]]></source>
+    <translation><![CDATA[Abdelkader Rhorbal]]></translation>
+  </word>
+  <word hash="3ac290376449bdc1acbbb37bd13cfe90c754c8177460d643e0450dc102d2805f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lourhraz Abdel Aziz]]></source>
+    <translation><![CDATA[Lourhraz Abdel Aziz]]></translation>
+  </word>
+  <word hash="21bec2db3fc9558a5781864cdab6378601c1d37a0b37751198d0464c4eb0ac9e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ajouter un Artiste]]></source>
+    <translation><![CDATA[Add Artist]]></translation>
+  </word>
+  <word hash="789201f14f14f7e20b9320b814e009515e7b0038c8c59b427893af0a8f05294c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nouveautés]]></source>
+    <translation><![CDATA[News]]></translation>
+  </word>
+  <word hash="e47880f547ee5a2e14c85f4284b2ad267989e54f22677ed95ab2184abcbeaf43" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[“ Lindenau Martin ”]]></source>
+    <translation><![CDATA["Martin Lindenau"]]></translation>
+  </word>
+  <word hash="0475fbac8ae414554b7ebceb4141a4bb8ef3346187ba2a625b2da37361d9b158" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Le village berbère de Lindenau]]></source>
+    <translation><![CDATA[The Berber village of Lindenau]]></translation>
+  </word>
+  <word hash="d1deb657235a396d625d5a27241d66d4bfb937b605b41de423913ddffa553ac9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[“ El Kiyale Saida ”]]></source>
+    <translation><![CDATA["El Kiyale Saida"]]></translation>
+  </word>
+  <word hash="a39185dbfd11c33c18cd16c57bed53dff40006b1a21cc6ab70a6a2549b470249" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Calligraphie de El Kiyale]]></source>
+    <translation><![CDATA[Calligraphy El Kiyale]]></translation>
+  </word>
+  <word hash="e47880f547ee5a2e14c85f4284b2ad267989e54f22677ed95ab2184abcbeaf43" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[“ Lindenau Martin ”]]></source>
+    <translation><![CDATA["Martin Lindenau"]]></translation>
+  </word>
+  <word hash="0dc0dbcd0b66e3d4165226fa4aa665a0ac3ae455de7325b0115f9ce94bee127e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Koutoubia et place Jamaa el Fna de Lindenau]]></source>
+    <translation><![CDATA[Koutoubia Mosque and Jamaa el Fna Lindenau]]></translation>
+  </word>
+  <word hash="b5923eb6cd66ba0a7cf0d77106cd8560c593d8040ed95f0f6e90ba752000d342" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[“ Rabii Abdelkebir ”]]></source>
+    <translation><![CDATA["Rabii Abdelkebir"]]></translation>
+  </word>
+  <word hash="1961cf34cf6a53d43e71ccda878e93dfdfad86c268bf9effc07a87b44636d28d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Petite oeuvre de Rabii]]></source>
+    <translation><![CDATA[Little work Rabii]]></translation>
+  </word>
+  <word hash="3d2798dc5d6e271db033caea0736ae4797d74c48bf4d520b7f011eab8ddf45ba" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[“ Benmoussa Mohamed ”]]></source>
+    <translation><![CDATA["Benmoussa Mohamed"]]></translation>
+  </word>
+  <word hash="0dbf00f0016a68b466f1815821e0b5c3971e1d801ded7901035be8f65da63220" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Gris de Benmoussa]]></source>
+    <translation><![CDATA[Gray Benmoussa]]></translation>
+  </word>
+  <word hash="1a3b40fddc1d64bf4a2da6199ca7d0ec0147f4d5f2518978baa49800d429ee5e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ajouter une Oeuvre]]></source>
+    <translation><![CDATA[Add Work]]></translation>
+  </word>
+  <word hash="580ac77247e7d55b3144c7141da39f4a87af99b74f4b5c207aaf31b8ebd8b5ec" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evénements & News]]></source>
+    <translation><![CDATA[Events & News]]></translation>
+  </word>
+  <word hash="3371fd97d11bdb192002f131fb527a384c50c3125a28565178d68b91c86e930d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage de Abdelkader Rhorbal : Une Clé / Une énigme]]></source>
+    <translation><![CDATA[Opening of Abdelkader Rhorbal: A Key / Enigma]]></translation>
+  </word>
+  <word hash="0ae4f56b827df0875b75fabaf555e2258e5dd21f5de0d181d26b46b52f796271" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Du Mar, 27/10/2015 Du Ven, 27/11/2015.]]></source>
+    <translation><![CDATA[From Tues 27/10/2015 From Fri 11/27/2015.]]></translation>
+  </word>
+  <word hash="61279a486946044cc3c4eaa6a965140797d1a36655bbc6f3975094ee33e7bddd" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lieu : Galerie Bab El Kebir.]]></source>
+    <translation><![CDATA[Location: Bab El Kebir Gallery.]]></translation>
+  </word>
+  <word hash="c47bd4ba48c14314de06a81ff0cf8c1e8b35d2e74be67370793d509466626336" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ajouter un Evénement]]></source>
+    <translation><![CDATA[Add an Event]]></translation>
+  </word>
+  <word hash="cf9aaef07f2007aa1a2e012243069f9b293b63085064e1aa65fec360f7b9a400" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[« La peinture, c'est très facile quand vous ne savez pas comment faire. Quand vous le savez, c'est très difficile. »  Edgar Degas (1834-1917)]]></source>
+    <translation><![CDATA["Painting is easy when you do not know how. When you know, it's very difficult. "Edgar Degas (1834-1917)]]></translation>
+  </word>
+  <word hash="58e7aa83dc67e5be12173dff408043f38fadf1e28a5903d9819d1573a57e619e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes vedettes
+                ]]></source>
+    <translation><![CDATA[Featured artists
+                ]]></translation>
+  </word>
+  <word hash="966b83defd97ee7813ab8f73817a66bfc852e01a4eddf5bd97896ec7d9a7e7c4" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nouveautés
+                ]]></source>
+    <translation><![CDATA[News
+                ]]></translation>
+  </word>
+  <word hash="6ec0464dc2500a5ce6d1f0e0f613a4368dc0e310d4a271eb2151adedf88ac54a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evénements & News
+              ]]></source>
+    <translation><![CDATA[Events & News
+              ]]></translation>
+  </word>
+  <word hash="4410723a2b211608ef0879aa59b3be91391c2052e0b3d7484713773ed3ef9ac0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[  vosartistes.com@gmail.com]]></source>
+    <translation><![CDATA[  vosartistes.com@gmail.com]]></translation>
+  </word>
+  <word hash="10f81ef8504174e219889496884e176ee4bbcdc0a26439c514a8b73f5f22e531" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Copyright @2014]]></source>
+    <translation><![CDATA[Copyright @ 2014]]></translation>
+  </word>
+  <word hash="c9f39af6d274555b8943776213e6cd454fa9329613527acc842ef3c5d3b59fab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes]]></source>
+    <translation><![CDATA[Artists]]></translation>
+  </word>
+  <word hash="afbd64c6f0a6033ac0b096883f3d79bc6119a5db998cab53c4e743129361b6b9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oeuvres]]></source>
+    <translation><![CDATA[Artworks]]></translation>
+  </word>
+  <word hash="03638578bbd9ccfad38be8ab35dbd84b2d5f2b445633e16444207a00e5e5bd1c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Actualités & Evénements]]></source>
+    <translation><![CDATA[News & Events]]></translation>
+  </word>
+  <word hash="6194607c2ff39b0bb611a5434265b971b810d1c38272463a571806b90e0b5d08" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Comment exposer]]></source>
+    <translation><![CDATA[How to exhibit]]></translation>
+  </word>
+  <word hash="63463d3db67a0dfe5004f8fe0843145d15187b895975f5ba0d40702bd63fa427" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Qui sommes nous]]></source>
+    <translation><![CDATA[Who we are]]></translation>
+  </word>
+  <word hash="4ccd1f046808f323d34ec3a0425016d10849012ce7578057a56b5d8678c6ea74" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Conditions Générales de Vente]]></source>
+    <translation><![CDATA[Terms and Conditions]]></translation>
+  </word>
+  <word hash="cce9c0a1b975aca056b7a1949b9642ca30768efc4ffd568c35b8eac678ed3f72" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mentions légales]]></source>
+    <translation><![CDATA[Imprint]]></translation>
+  </word>
+  <word hash="69af3adb9bee320cc209053366b970f392b85dce0d33481fc508f91e1e113584" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Accès partenaire]]></source>
+    <translation><![CDATA[Partner access]]></translation>
+  </word>
+  <word hash="ebc55e32506267654a89626b6d43db85c35aca904f9c8a738a6a91d57d6f28f8" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Accès membre]]></source>
+    <translation><![CDATA[Member access]]></translation>
+  </word>
+  <word hash="4410723a2b211608ef0879aa59b3be91391c2052e0b3d7484713773ed3ef9ac0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[  vosartistes.com@gmail.com]]></source>
+    <translation><![CDATA[  vosartistes.com@gmail.com]]></translation>
+  </word>
+  <word hash="10f81ef8504174e219889496884e176ee4bbcdc0a26439c514a8b73f5f22e531" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Copyright @2014]]></source>
+    <translation><![CDATA[Copyright @ 2014]]></translation>
+  </word>
+  <word hash="d08d1c99ca20ecfa71f8597a7b84be091b34e6ab3f94eb248b1758034d0f2898" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Accueil]]></source>
+    <translation><![CDATA[ Welcome]]></translation>
+  </word>
+  <word hash="cb31dec191ef6b7b30425f1da3c7fd6838bc9afbe90dd6373b448574390a95b9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Artistes]]></source>
+    <translation><![CDATA[ Artists]]></translation>
+  </word>
+  <word hash="4ff9a9c376816818474651cd126a6a6c7c132ed4334f82105150f4dbd355fc63" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Oeuvres]]></source>
+    <translation><![CDATA[ Artworks]]></translation>
+  </word>
+  <word hash="9e34d02bae188346ec918572e467c7d3e69c30305e5cfe089a1cd5a50de808f4" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Actualités & Evénements]]></source>
+    <translation><![CDATA[ News & Events]]></translation>
+  </word>
+  <word hash="a2e4d26aadff4d407dc6318e28a07c94b0ee8bf80bede953152a3499e3db3784" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Espace Membres]]></source>
+    <translation><![CDATA[ Members Area]]></translation>
+  </word>
+  <word hash="dc6841bbdaab777f575840b91cd31201a22aed0563b950d436b2e391162ec225" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Contact]]></source>
+    <translation><![CDATA[ Contact]]></translation>
+  </word>
+  <word hash="8dfdbc2ef4391d511daccaa080cce5fb26e608db8b180c56e31df392519f8d50" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Social Media]]></source>
+    <translation><![CDATA[Social Media]]></translation>
+  </word>
+  <word hash="26c9f254520d6ed4ec247def5ab9a1310bcf4f046c2f214658b9919045a3e22f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Facebook]]></source>
+    <translation><![CDATA[ Facebook]]></translation>
+  </word>
+  <word hash="6c7c173673f89a6f61e32325971e68f05e9e4ec293cf32f1a778095646203b2c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Twitter]]></source>
+    <translation><![CDATA[ Twitter]]></translation>
+  </word>
+  <word hash="208f66ed8f73378a733509f6b088f9ccf498b7647ba12eead97763615149b7be" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[ Google Plus]]></source>
+    <translation><![CDATA[ Google Plus]]></translation>
+  </word>
+  <word hash="f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Newsletter]]></source>
+    <translation><![CDATA[Newsletter]]></translation>
+  </word>
+  <word hash="424a1d40b2f7127a16cbec225952d51bdbddcc2aa579108cf73c64d2e6f06952" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Email Newsletters]]></source>
+    <translation><![CDATA[Email Newsletters]]></translation>
+  </word>
+  <word hash="0eb8289364fe156303c878399f19e8134959995156e537edce96a1af47d8c716" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Abonnez-vous à recevoir l'inspiration, des idées et nouvelles dans votre boîte de réception.]]></source>
+    <translation><![CDATA[Subscribe to receive inspiration, ideas and news in your inbox.]]></translation>
+  </word>
+  <word hash="a0e59e0d63d3b55657ff6521941ac907f1dab83622e27863bd13abea7af7b32e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Souscrire]]></source>
+    <translation><![CDATA[Subscribe]]></translation>
+  </word>
+  <word hash="c9f39af6d274555b8943776213e6cd454fa9329613527acc842ef3c5d3b59fab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes]]></source>
+    <translation><![CDATA[Artists]]></translation>
+  </word>
+  <word hash="b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[on]]></source>
+    <translation><![CDATA[we]]></translation>
+  </word>
+  <word hash="afbd64c6f0a6033ac0b096883f3d79bc6119a5db998cab53c4e743129361b6b9" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oeuvres]]></source>
+    <translation><![CDATA[Artworks]]></translation>
+  </word>
+  <word hash="b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[on]]></source>
+    <translation><![CDATA[we]]></translation>
+  </word>
+  <word hash="121eee816e406947519031809e1c14825ea4d7afb91797d8f4bf80bf2f485a48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evenement]]></source>
+    <translation><![CDATA[Event]]></translation>
+  </word>
+  <word hash="b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[on]]></source>
+    <translation><![CDATA[we]]></translation>
+  </word>
+  <word hash="626ba7a89fc2bf5b2445b50edc86d6dda2565f6dcc16924447686a9a3449ec6e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Valider]]></source>
+    <translation><![CDATA[Validate]]></translation>
+  </word>
+  <word hash="30904c9d4a388ffc1a92594108f7dc4127f99836d682de310e8f708df6cc973c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Type d’oeuvre]]></source>
+    <translation><![CDATA[Type of work]]></translation>
+  </word>
+  <word hash="a0dd275522480fe0b649cfe1d45db27553b20b112737c221e7200869aa6343a2" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sculptures]]></source>
+    <translation><![CDATA[Sculptures]]></translation>
+  </word>
+  <word hash="1dfe9009cbb57c7fdcfeb21ac93bdeecc1c182ae67bde20174fa61feddb73b9d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Photographies]]></source>
+    <translation><![CDATA[Photographs]]></translation>
+  </word>
+  <word hash="24de740307de4103b9995c29faa3561cfc8d6964ee50d3b06cd5bc5892873623" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Bijoux]]></source>
+    <translation><![CDATA[Jewelry]]></translation>
+  </word>
+  <word hash="c86043fa5223223d9e8413e5642446ac4eb4a1dedce8a25013c43dade6627337" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Livres]]></source>
+    <translation><![CDATA[Books]]></translation>
+  </word>
+  <word hash="0ab7b9280ac4e92f0c249120f51a34180fbf8c71cdddb1256071b4ca47a0bb36" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Objets de décoration]]></source>
+    <translation><![CDATA[Decorative objects]]></translation>
+  </word>
+  <word hash="96f027e3b6f133d9793e4aa91df56432189a3f88a98bf803ba2eb6c235ac8846" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Caftans]]></source>
+    <translation><![CDATA[Kaftans]]></translation>
+  </word>
+  <word hash="9b30f6fc29dc436c818ab567f453a33f25580567aa86d056689ac7f0f1e36e4d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Meubles]]></source>
+    <translation><![CDATA[Furniture]]></translation>
+  </word>
+  <word hash="4aba30ea7091aa12e56129bc6a10ef406ce1f0d53c7aaf3a612b1c83b5cb2fac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tapis]]></source>
+    <translation><![CDATA[Carpet]]></translation>
+  </word>
+  <word hash="d70a538700f1a52db7ed72fad9d79d8df00f82b7761d6d50c608aa75f7f2f228" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Tableaux]]></source>
+    <translation><![CDATA[Paintings]]></translation>
+  </word>
+  <word hash="7e744141b40ea5501412e42c8b40fd0b05f1608aa2e4073944ccccbd82f24ee8" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Style]]></source>
+    <translation><![CDATA[Style]]></translation>
+  </word>
+  <word hash="ea2049ce73dc464f4f449f4a570e8f16862bb2225bff80a1c07e2ccbabca49ac" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Moderne]]></source>
+    <translation><![CDATA[Modern]]></translation>
+  </word>
+  <word hash="2cadfd0670fee83a2927cf9b7116de486bed6f22e8c7cfc920082d8f71f4e492" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Figuratif]]></source>
+    <translation><![CDATA[Figurative]]></translation>
+  </word>
+  <word hash="5c3ebdc5196a864d061f40466f7d3be602142a705667261da2dba32d595f6a5f" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Abstrait]]></source>
+    <translation><![CDATA[Abstract]]></translation>
+  </word>
+  <word hash="24ca2dd86e53f37d4a7c159164de32a42c7f99b432e766de0fe29b077dfffdf0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Naif/Primitif]]></source>
+    <translation><![CDATA[Naive / Primitive]]></translation>
+  </word>
+  <word hash="626ba7a89fc2bf5b2445b50edc86d6dda2565f6dcc16924447686a9a3449ec6e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Valider]]></source>
+    <translation><![CDATA[Validate]]></translation>
+  </word>
+  <word hash="626ba7a89fc2bf5b2445b50edc86d6dda2565f6dcc16924447686a9a3449ec6e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Valider]]></source>
+    <translation><![CDATA[Validate]]></translation>
+  </word>
+  <word hash="15d11a2ce35f5ba654703fffe96866927e817667ca477bf753bc808104709ec4" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Exposition permanente : Jilali Gharbaoui - Collection Louis Morère]]></source>
+    <translation><![CDATA[Permanent exhibition: Jilali Gharbaoui - Collection Louis Morère]]></translation>
+  </word>
+  <word hash="64c8abd6fe48227b05d8d9526ac793dec2aa3b82c53315605f8baef280fb5be3" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[La Fondation ONA ouvre son exposition permanente et met à l’honneur le premier peintre non guratif marocain : Jilali Gharbaoui. Disparu de façon pr& ...]]></source>
+    <translation><![CDATA[The ONA Foundation opens its permanent exhibition and celebrates the first non-Moroccan painter gurative: Jilali Gharbaoui. Disappeared so pr & ...]]></translation>
+  </word>
+  <word hash="49dcb3a471a81bb8d1b5267eaa76fc97dd56d405c21a38106dd7c3b541962435" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage Moulay Youssef Elkahfai]]></source>
+    <translation><![CDATA[Opening Moulay Youssef Elkahfai]]></translation>
+  </word>
+  <word hash="e1ea01d0db7c54b614b5d125f4920f39706b26f8a3f6331b18749d1dee0c73fb" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[My Youssef Elkahfai présente son œuvre graphique , synergie entre peinture et gravure. Cet événement est organisé dans un cadre culturel ...]]></source>
+    <translation><![CDATA[My Youssef Elkahfai present his graphic work, synergy between painting and engraving. This event is organized in a cultural context ...]]></translation>
+  </word>
+  <word hash="3371fd97d11bdb192002f131fb527a384c50c3125a28565178d68b91c86e930d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Vernissage de Abdelkader Rhorbal : Une Clé / Une énigme]]></source>
+    <translation><![CDATA[Opening of Abdelkader Rhorbal: A Key / Enigma]]></translation>
+  </word>
+  <word hash="09a7700133c9b6fd82056a87ebff63269247cd68801f153969771d44e82d075b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Le Ministère de la culture organise une Exposition de l’artiste Abdelkader Rhorbal « Une Clef une énigme » à la Galerie Bab El K&e ...]]></source>
+    <translation><![CDATA[The Ministry of Culture is organizing an Exhibition of the artist Abdelkader Rhorbal "A Clef an enigma" on El Bab Gallery K & e ...]]></translation>
+  </word>
+  <word hash="f966af4ab25aa5881b2f90d4a7d7dfb361c76d0845afe8307586e59c1bea5e4e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Artistes vedettes]]></source>
+    <translation><![CDATA[Featured artists]]></translation>
+  </word>
+  <word hash="789201f14f14f7e20b9320b814e009515e7b0038c8c59b427893af0a8f05294c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nouveautés]]></source>
+    <translation><![CDATA[News]]></translation>
+  </word>
+  <word hash="580ac77247e7d55b3144c7141da39f4a87af99b74f4b5c207aaf31b8ebd8b5ec" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Evénements & News]]></source>
+    <translation><![CDATA[Events & News]]></translation>
+  </word>
+  <word hash="4410723a2b211608ef0879aa59b3be91391c2052e0b3d7484713773ed3ef9ac0" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[  vosartistes.com@gmail.com]]></source>
+    <translation><![CDATA[  vosartistes.com@gmail.com]]></translation>
+  </word>
+  <word hash="10f81ef8504174e219889496884e176ee4bbcdc0a26439c514a8b73f5f22e531" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Copyright @2014]]></source>
+    <translation><![CDATA[Copyright @ 2014]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[October 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[Di]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[Read]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[My]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[Me]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[I]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[Ve]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[Its]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[January]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[February]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[March]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[April]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[May]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[Jui]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[July]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[Aug]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[September]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[October]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[November]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[December]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[October 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[Di]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[Read]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[My]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[Me]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[I]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[Ve]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[Its]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[January]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-13T13:37:46+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[February]]></translation>
+  </word>
+</translations>

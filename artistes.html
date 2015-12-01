@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/jquery-ui.css" />
+        <link rel="stylesheet" href="css/datepicker.css" />
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+         <link href="css/bootstrap.min.css" rel="stylesheet">
+         <!--<link rel="stylesheet" type="text/css" href="css/styles.css">-->
+         
+		 
+        <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]--> 
+        <title>Oeuvres d'art Maroc : Tableaux, Sculptures, Photos et Arts d'exception | Vos artistes</title>
+        <meta name="keywords" content="Artistes, Maroc, Peinture, Vente, Art, Galerie, Exposition, Valès Edmond">
+		<meta name="description" content="Le site www.vosartistes.com expose une collection d’œuvres d'art (Peinture, Sculpture, Arts d'exception...)  Cet espace permet de les mettre en valeur et les présenter à la vente au niveau marocain et à l'international.  Les grands noms de l'art pictural au Maroc y sont présentés, ainsi que les nouvelles tendances qui dynamisent notre monde artistique.">
+		<link rel="shortcut icon" href="../sites/all/themes/exupery/favicon.png" type="image/x-icon">
+          <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+        <link type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+       
+        <script src="js/jquery-1.9.0.min.js"></script>
+        <script src="js/jquery-1.9.1.min.js"></script>
+        <script src="js/app.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/autocomplete_arTags1.js"></script>
+        <script src="js/autocomplete_ar2.js"></script>
+        <script src="js/autocomplete_art_oeuvre.js"></script>
+        <script src="js/autocomplete_all.js"></script>
+        <script src="js/autocomplete_oeuvre.js"></script>
+        <script src="js/autocomplete_event.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/nice_select.js"></script>
+        <link href="css/nice_select.css" rel="stylesheet">
+		<!-- translator -->
+		<link rel="stylesheet" type="text/css" href="translator/styles/jquery.translator.css" />
+		<script type="text/javascript" src="translator/javascript/jquery.translator.min.js"></script>
+		<script type="text/javascript">
+							$.translator.ready(function() {
+								
+								$(".translator").translator({
+									excludeSelector: ".not-translate",
+									names: false,
+									cookie: true,
+									from: 'fr',
+									onComplete: function(){
+										$('.usa').html("");
+										var $button = $('.translator-completed-left').clone();
+										$('.usa').html($button);
+
+									}
+								});
+								$('.usa').html("");
+										var $button = $('.translator-completed-left').clone();
+										$('.usa').html($button);
+							});		</script>
+		<!-- translator -->
+
+
+            <script type="text/javascript" src="js/jquery.waterwheelCarousel.js"></script>
+	        <script src="js/modernizrdetail.js"></script>
+            <style>
+			.ui-autocomplete {
+				max-height: 400px;
+				overflow-y: auto;
+			  
+				overflow-x: hidden;
+			  }
+			  
+			  * html .ui-autocomplete {
+				height: 100px;
+			  }
+			.ui-autocomplete-category {
+			font-weight: bold;
+			padding: .2em .4em;
+			margin: .8em 0 .2em;
+			line-height: 1.5;
+			}
+			</style>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        var carousel = $("#carousel").waterwheelCarousel({
+          flankingItems: 5,
+          movingToCenter: function ($item) {
+            $('#callback-output').prepend('movingToCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movedToCenter: function ($item) {
+            $('#callback-output').prepend('movedToCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movingFromCenter: function ($item) {
+            $('#callback-output').prepend('movingFromCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movedFromCenter: function ($item) {
+            $('#callback-output').prepend('movedFromCenter: ' + $item.attr('id') + '<br/>');
+          },
+          clickedCenter: function ($item) {
+            $('#callback-output').prepend('clickedCenter: ' + $item.attr('id') + '<br/>');
+          }
+        });
+
+        
+        
+
+      });
+	  $(document).ready(function(){
+        if (Modernizr.touch) {
+            // show the close overlay button
+            $(".close-overlay").removeClass("hidden");
+            // handle the adding of hover class when clicked
+            $(".img").click(function(e){
+                if (!$(this).hasClass("hover")) {
+                    $(this).addClass("hover");
+                }
+            });
+            // handle the closing of the overlay
+            $(".close-overlay").click(function(e){
+                e.preventDefault();
+                e.stopPropagation();
+                if ($(this).closest(".img").hasClass("hover")) {
+                    $(this).closest(".img").removeClass("hover");
+                }
+            });
+        } else {
+            // handle the mouseenter functionality
+            $(".img").mouseenter(function(){
+                $(this).addClass("hover");
+            })
+            // handle the mouseleave functionality
+            .mouseleave(function(){
+                $(this).removeClass("hover");
+            });
+        }
+    });
+    </script>
+	
+    <script type="text/javascript" src="js/jquery-paged-scroll.js"></script>
+    <script type="text/javascript" > $('document').ready(function(){ $('.change').niceselect(); }) </script>
+
+
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
+    <!--<script src="js/main.js"></script>-->
+   
+	<!--google analytics-->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-65895713-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	<!--google analytics-->
+	
+    </head>
+
+    <body>
+	<div class="translator">
+    <div id="largeData">
+        <div id="bloc_page">
+        	<a href="http://www.vosartistes.com/artistes" style="cursor:pointer;"><div id="backtov1">Retourner à la version originale</div></a>
+            <header>
+                   <div id="header_top">
+                     <div id="logo">
+						<a href='index.html'><img src="img/logo.png"></a> 
+                     </div>
+                     <div id="header_left">
+                      <div id="lang">
+							<div class="btn-group">
+							  <div class="btn-group">
+								<button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
+								  Langue
+								  <span class="caret"></span>
+								</button>
+								<!-- translator -->
+								<ul class="dropdown-menu">
+									<li><a href="javascript:;" title="French" class="translator-language-fr"><img src="translator/images/French.gif" alt="French" /></a></li>
+									<li><a href="javascript:;" title="English" class="translator-language-en"><img src="translator/images/English.gif" alt="English" /></a></li>
+									<li><a href="javascript:;" title="Spanish" class="translator-language-es"><img src="translator/images/Spanish.gif" alt="Spanish" /></a></li>
+									<li><a href="javascript:;" title="Arabic" class="translator-language-ar"><img src="translator/images/Arabic.gif" alt="Arabic" /></a></li>
+								</ul>
+								
+								
+								<!-- translator -->
+								<!--<ul class="dropdown-menu">
+								  <li><a href="#">fr</a></li>
+								  <li><a href="#">en</a></li>
+								</ul>-->
+							  </div>
+							</div>
+						</div>
+                      <div id="newsletter">
+                      <form class="newsletterform" action="#">
+                      <input type="text" placeholder="Newsletter">
+                      <button class="btn btn-default" type="submit"><i class="fa fa-check"></i></button>
+                      </form> </div>
+
+
+                       <nav>
+                            <div id='cssmenu'>
+                            <ul>
+                               <li><a href='index.html'><span>Accueil</span></a></li>
+                               <li  class='active'><a href='#'><span>Artistes</span></a></li>
+                               <li><a href='oeuvres.html'><span>Oeuvres</span></a></li>
+                               <li><a href='evenments.html'><span>Actualités & Evénements</span></a></li>
+                               <li><a href='#'><span>Espace Membres</span></a></li>
+                               <li class='last'><a href='contact.html'><span>Contact</span></a></li>
+                            </ul>
+                            </div>
+                    </nav>
+                     </div> <br>
+                   </div> 
+
+               
+                   <div id="header_bottom">
+                     
+                     <div style="float: left;width: 500px;">
+                      
+
+                      <div id="search">
+                       <!--All -->
+                      <form class="searchform" id="aaa" action="results.html" method="post">
+                      <input style="width:454px;" type="text" placeholder=" Artiste, Evènement, Œuvre..." id="search_all" name="search_a_o">
+              							  <input  type="hidden" value="aaa" name="form"/>
+        
+                     
+                      <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                      </form>
+
+                      <!-- Artistes Oeuvres -->
+                       <form class="searchform"  action="results.html" method="post" id="bbb" style="display:none">
+                      <input style="width:226px;" type="text" placeholder=" Artiste, Œuvre"  id="search_a_o" name="search_a_o"><span>|</span>
+                      
+
+							  <input  type="hidden" value="bbb" name="form"/>
+
+                      <select class="select" style="width:125px;" name="type_o">
+                          <option value="All">Type d’oeuvre</option>
+                                              <option value="tableau">Tableaux</option>
+                                              <option value="sculpture">Sculptures</option>
+                                              <option value="photographie">Photographies</option>
+                                              <option value="bijoux">Bijoux</option>
+                                              <option value="livre">Livres</option>
+                                              <option value="decoration">Objets de décoration</option>
+                                              <option value="caftan">Caftans</option>
+                                              <option value="meuble">Meubles</option>
+                                              <option value="tapis">Tapis</option>
+                      </select>
+                      <span>|</span>
+
+                      <select class="select" style="width:75px;" name="style_o">
+                          <option>Style</option>
+                          <option>Moderne</option>
+                          <option>Figuratif</option>
+                          <option>Abstrait</option>
+                          <option value="naif" >Naif/Primitif</option>
+                      </select>
+
+                      <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                      </form>
+                      <!-- Artistes -->
+                        <form class="searchform"  action="results.html" method="post" id="eee" style="display:none">
+                              <input style="width:226px;" type="text" placeholder=" Artiste"  id="tags" name="tags"><span>|</span>
+							  <input  type="hidden" value="eee" name="form"/>
+
+
+
+                              <select id="typeA" class="select" style="width:125px;" name="type_o">
+                                              <option value="All">Type d’oeuvre</option>
+                                              <option value="tableau">Tableaux</option>
+                                              <option value="sculpture">Sculptures</option>
+                                              <option value="photographie">Photographies</option>
+                                              <option value="bijoux">Bijoux</option>
+                                              <option value="livre">Livres</option>
+                                              <option value="decoration">Objets de décoration</option>
+                                              <option value="caftan">Caftans</option>
+                                              <option value="meuble">Meubles</option>
+                                              <option value="tapis">Tapis</option>
+                                              
+                              </select>
+                              <span>|</span>
+
+                              <select id="styleA" class="select" style="width:75px;" name="style_o">
+                                  <option value="">Style</option>
+                                  <option>Moderne</option>
+                                  <option>Figuratif</option>
+                                  <option>Abstrait</option>
+                                  <option value="naif" >Naif/Primitif</option>
+                              </select>
+
+                              <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                          </form>
+                      <!-- Oeuvres -->
+
+                      <form class="searchform"  action="results.html" method="post" id="fff" style="display:none">
+                              <input style="width:226px;" type="text" placeholder=" Œuvre"  id="search_o"><span>|</span>
+							  <input  type="hidden" value="fff" name="form"/>
+
+
+
+                               <select class="select" style="width:125px;" id="type" name="type_o">
+                                              <option value="All">Type d’oeuvre</option>
+                                              <option value="tableau">Tableaux</option>
+                                              <option value="sculpture">Sculptures</option>
+                                              <option value="photographie">Photographies</option>
+                                              <option value="bijoux">Bijoux</option>
+                                              <option value="livre">Livres</option>
+                                              <option value="decoration">Objets de décoration</option>
+                                              <option value="caftan">Caftans</option>
+                                              <option value="meuble">Meubles</option>
+                                              <option value="tapis">Tapis</option>
+                                              
+                              </select>
+                              <span>|</span>
+
+                              <select id="style2" class="select" style="width:75px;" name="style_o">
+                                  <option value="">Style</option>
+                                  <option>Moderne</option>
+                                  <option>Figuratif</option>
+                                  <option>Abstrait</option>
+                                  <option value="naif" >Naif/Primitif</option>
+                              </select>
+
+                              <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                          </form>
+
+                      <!-- evenments -->
+                        <form class="searchform"  action="results.html" method="post" id="ccc">
+                              <input type="text" placeholder="Evénement" style="width:120px;" id="search_event" name="search_event"><span>|</span>
+							  <input  type="hidden" value="ccc" name="form"/>
+
+                              <select id="typeEvent" class="select" style="width:130px;" name="type_ev">
+
+                                  <option value="">Type d’événement</option>
+                                  <option>Vernissage</option>
+                                  <option>Exposition photo</option>
+                                  <option>Festival</option>
+                                  <option>Conférence et Galas</option>
+                                  <option>Salon</option>
+                                  <option>Autres</option>
+                              </select>
+                              <span>|</span>
+                              <input type="text" placeholder=" debut" value="" id="dpd1" style="width:80px;" name="debut">
+                              <span>|</span>
+                              <input type="text" placeholder=" fin" value="" id="dpd2" style="width:80px;" name="fin">
+
+
+
+                              <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                          </form>
+
+
+
+
+                      
+                     </div>
+                     </div>
+                    
+                     <div id="search_av"><span id="sva">Recherche avancée</span> 
+                       
+                       <div id="search_sub">
+                          
+                          <table style="width:100%">
+                            <tr>
+                              <td><label>Artistes</label></td>
+                              <td><input type="checkbox" id="art" value="artiste" checked=""></td>
+                            </tr>
+
+                            <tr>
+                              <td><label>Oeuvres</label></td>
+                              <td><input type="checkbox" id="oeu" value="oeuvre" checked=""></td>
+                            </tr>
+
+                            <tr>
+                              <td><label>Evénements</label></td>
+                              <td><input type="checkbox" id="eve" value="Evenement" checked=""></td>
+                            </tr>
+                          </table>
+
+                       </div>
+                     </div>
+
+                     <div class="social">
+                       
+                       <span><a href='https://twitter.com/Vosartistes'><img src="img/twitter.png"></a></span>
+                       <span><a href='vosartistes.com@gmail.com'><img src="img/google.png"></a></span>
+                       <span><a href='https://www.facebook.com/vosartistes'><img src="img/facebook.png"></a></span>
+                     </div>
+                      <br>
+                   </div>
+            </header>
+            
+           <section class="sec_article">
+           <br>
+                 
+
+             <div id="artist_left">
+             
+                 <div id="search_per">
+                  <div id="search_titre">Personnalisez votre recherche</div>
+                   <div id="search_form">
+                   <form name="FormAll">
+                       <label> Artiste :</label><input type="text" id="tags1" >
+
+                       <a class="js-open-modal" href="#" data-modal-id="popup1"  style="font-size: 11px;color:#8a1527;display: block; float: right; margin: 0px 10px;"> Liste des Artistes</a>
+                              
+                        <div id="popup1" class="modal-box">
+                          <div class="headerbox"> <a href="#" class="js-modal-close close">×</a>
+                            <h3>Liste des Artistes</h3>
+                          </div>
+                          <br>
+                    <div class="modal-body">
+                            <table>
+                              
+                              <tbody><tr><td><a href="#" class="liste"></a></td></tr><tr><td><a href="#" class="liste"> &gt;Inconnu </a></td></tr><tr><td><a href="#" class="liste"> Aamiri Brahim </a></td></tr><tr><td><a href="#" class="liste"> Abourizk Karima </a></td></tr><tr><td><a href="#" class="liste"> Aherdane Mahjoubi </a></td></tr><tr><td><a href="#" class="liste"> Ait Youssef Said </a></td></tr><tr><td><a href="#" class="liste"> Al Harah Taoufa </a></td></tr><tr><td><a href="#" class="liste"> Alaoui Hassan </a></td></tr><tr><td><a href="#" class="liste"> Alaoui Rita </a></td></tr><tr><td><a href="#" class="liste"> Ammor Leila </a></td></tr><tr><td><a href="#" class="liste"> Ammor Mounya </a></td></tr><tr><td><a href="#" class="liste"> Amnaine Mustapha </a></td></tr><tr><td><a href="#" class="liste"> Amor Mounia </a></td></tr><tr><td><a href="#" class="liste"> Amrani Anas </a></td></tr><tr><td><a href="#" class="liste"> Anderbouhr Paul </a></td></tr><tr><td><a href="#" class="liste"> Armand Fernandez </a></td></tr><tr><td><a href="#" class="liste"> Arnal </a></td></tr><tr><td><a href="#" class="liste"> Arnold Florence </a></td></tr><tr><td><a href="#" class="liste"> Arnoud Patrice </a></td></tr><tr><td><a href="#" class="liste"> Arnut Hanebali Joëlle </a></td></tr><tr><td><a href="#" class="liste"> Assil </a></td></tr><tr><td><a href="#" class="liste"> Attar Karim </a></td></tr><tr><td><a href="#" class="liste"> Attobi Lotfi </a></td></tr><tr><td><a href="#" class="liste"> Azagury Elie </a></td></tr><tr><td><a href="#" class="liste"> Azz Abdellah </a></td></tr><tr><td><a href="#" class="liste"> Azzaoui Rafika </a></td></tr><tr><td><a href="#" class="liste"> Bahij Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Bakarri Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Bakri Saleh </a></td></tr><tr><td><a href="#" class="liste"> Balili Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Balili Mbarek </a></td></tr><tr><td><a href="#" class="liste"> Bargach El Batoul </a></td></tr><tr><td><a href="#" class="liste"> Bargach Mariam </a></td></tr><tr><td><a href="#" class="liste"> Basri Fouzi </a></td></tr><tr><td><a href="#" class="liste"> Bekkali Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Bekkali Mokhtar </a></td></tr><tr><td><a href="#" class="liste"> Bekri B </a></td></tr><tr><td><a href="#" class="liste"> Belarbi Meriam </a></td></tr><tr><td><a href="#" class="liste"> Belcadi Laarbi </a></td></tr><tr><td><a href="#" class="liste"> Belghiti Amal </a></td></tr><tr><td><a href="#" class="liste"> Belghiti Omar </a></td></tr><tr><td><a href="#" class="liste"> Belkahia Farid </a></td></tr><tr><td><a href="#" class="liste"> Bellamine Abdelkarim </a></td></tr><tr><td><a href="#" class="liste"> Belmahdi Youssef </a></td></tr><tr><td><a href="#" class="liste"> Ben Ali R'bati Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Ben Allal Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Ben Cheffaj Saâd </a></td></tr><tr><td><a href="#" class="liste"> Ben Dahmane Abdelbassit </a></td></tr><tr><td><a href="#" class="liste"> Ben Yessef Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Benabbou Oussama </a></td></tr><tr><td><a href="#" class="liste"> Benas Baghdad </a></td></tr><tr><td><a href="#" class="liste"> Benchekroune Abbas </a></td></tr><tr><td><a href="#" class="liste"> Benhayoun Soumaya </a></td></tr><tr><td><a href="#" class="liste"> Benjelloun Rita </a></td></tr><tr><td><a href="#" class="liste"> Benjelloun Youssef </a></td></tr><tr><td><a href="#" class="liste"> Benjkan Salah </a></td></tr><tr><td><a href="#" class="liste"> Benmalek Abdelmoula </a></td></tr><tr><td><a href="#" class="liste"> Benmouina Youssef </a></td></tr><tr><td><a href="#" class="liste"> Bennani Karim </a></td></tr><tr><td><a href="#" class="liste"> Bennani Mohamed (Moa) </a></td></tr><tr><td><a href="#" class="liste"> Bennis Amine </a></td></tr><tr><td><a href="#" class="liste"> Benouakass Noureddine </a></td></tr><tr><td><a href="#" class="liste"> Bensaid Lucien (Lubens) </a></td></tr><tr><td><a href="#" class="liste"> Bent Lhoucine Radia </a></td></tr><tr><td><a href="#" class="liste"> Berrada Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Billet-Hauteberg Clarisse </a></td></tr><tr><td><a href="#" class="liste"> Bnoussina Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Bob </a></td></tr><tr><td><a href="#" class="liste"> Bongiovanni Roberto Youbi </a></td></tr><tr><td><a href="#" class="liste"> Bouaddi Salim </a></td></tr><tr><td><a href="#" class="liste"> Boudarqa Nabil </a></td></tr><tr><td><a href="#" class="liste"> Bouhamida Samira </a></td></tr><tr><td><a href="#" class="liste"> Bouregba Omar </a></td></tr><tr><td><a href="#" class="liste"> Bourkia Hassan </a></td></tr><tr><td><a href="#" class="liste"> Boussaboune Mhamed </a></td></tr><tr><td><a href="#" class="liste"> Boutaleb Mohamed Kamal </a></td></tr><tr><td><a href="#" class="liste"> Bouzaïd Bouabid </a></td></tr><tr><td><a href="#" class="liste"> Bouzerhoune Abdesslam </a></td></tr><tr><td><a href="#" class="liste"> Breteau Stéphane </a></td></tr><tr><td><a href="#" class="liste"> Bruneau Odette </a></td></tr><tr><td><a href="#" class="liste"> Calder Alexander </a></td></tr><tr><td><a href="#" class="liste"> Caposiena Leonardo </a></td></tr><tr><td><a href="#" class="liste"> Carpenter James </a></td></tr><tr><td><a href="#" class="liste"> Casellas Alonso </a></td></tr><tr><td><a href="#" class="liste"> Cazes A </a></td></tr><tr><td><a href="#" class="liste"> Chahbi Brahim </a></td></tr><tr><td><a href="#" class="liste"> Chahidi </a></td></tr><tr><td><a href="#" class="liste"> Chater Noureddine </a></td></tr><tr><td><a href="#" class="liste"> Chatir Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Chiguer Lourak </a></td></tr><tr><td><a href="#" class="liste"> Choufani Hayat </a></td></tr><tr><td><a href="#" class="liste"> Choufani Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Chraibi Amina </a></td></tr><tr><td><a href="#" class="liste"> Cossard Adolphe </a></td></tr><tr><td><a href="#" class="liste"> Cretot-Duval Raymond </a></td></tr><tr><td><a href="#" class="liste"> Cruz Herrera Amparo </a></td></tr><tr><td><a href="#" class="liste"> D'alcantara Armand </a></td></tr><tr><td><a href="#" class="liste"> Daheur Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Dalí Salvador </a></td></tr><tr><td><a href="#" class="liste"> Damiano Bernard </a></td></tr><tr><td><a href="#" class="liste"> Danino Liliane </a></td></tr><tr><td><a href="#" class="liste"> De Buzon Marius </a></td></tr><tr><td><a href="#" class="liste"> De Groot J </a></td></tr><tr><td><a href="#" class="liste"> De Martino Florence </a></td></tr><tr><td><a href="#" class="liste"> Dehrmann Till </a></td></tr><tr><td><a href="#" class="liste"> Delfau André </a></td></tr><tr><td><a href="#" class="liste"> Dibaji Abdellah </a></td></tr><tr><td><a href="#" class="liste"> Douah Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Douieb Youssef </a></td></tr><tr><td><a href="#" class="liste"> Drissi Mohamed (Idrissi) </a></td></tr><tr><td><a href="#" class="liste"> Dufour Bernard </a></td></tr><tr><td><a href="#" class="liste"> Durel Jules Jean Gaston </a></td></tr><tr><td><a href="#" class="liste"> Echair Hassan </a></td></tr><tr><td><a href="#" class="liste"> Edy Legrand (Édouard Léon Louis Warschawsky) </a></td></tr><tr><td><a href="#" class="liste"> Ejjenane Faiza </a></td></tr><tr><td><a href="#" class="liste"> El Afia Mohamed </a></td></tr><tr><td><a href="#" class="liste"> El Alami Mohamed (Tanger) </a></td></tr><tr><td><a href="#" class="liste"> El Amri Mona </a></td></tr><tr><td><a href="#" class="liste"> El Ansari Mustapha </a></td></tr><tr><td><a href="#" class="liste"> El Bekay Khalid </a></td></tr><tr><td><a href="#" class="liste"> El Bouhtouri Abdelkebir </a></td></tr><tr><td><a href="#" class="liste"> El Farrouj Abdelmoula </a></td></tr><tr><td><a href="#" class="liste"> El Haitout Abdellah </a></td></tr><tr><td><a href="#" class="liste"> El Hamdani Rachid </a></td></tr><tr><td><a href="#" class="liste"> El Harti Mustapha </a></td></tr><tr><td><a href="#" class="liste"> El Hayani Ahmed </a></td></tr><tr><td><a href="#" class="liste"> El Joubari Narjiss </a></td></tr><tr><td><a href="#" class="liste"> El Kess Hassan </a></td></tr><tr><td><a href="#" class="liste"> El Kholti Karim </a></td></tr><tr><td><a href="#" class="liste"> El Kouhen Hassan </a></td></tr><tr><td><a href="#" class="liste"> El Moujaouid Abderrahim </a></td></tr><tr><td><a href="#" class="liste"> El Ouardi Zineb </a></td></tr><tr><td><a href="#" class="liste"> Elbilia J </a></td></tr><tr><td><a href="#" class="liste"> Eluard Paul </a></td></tr><tr><td><a href="#" class="liste"> Essaihi </a></td></tr><tr><td><a href="#" class="liste"> Essaihi Abdeslam </a></td></tr><tr><td><a href="#" class="liste"> Fajol Pierre </a></td></tr><tr><td><a href="#" class="liste"> Farkhani </a></td></tr><tr><td><a href="#" class="liste"> Fatima Hassan (El Ferrouj) </a></td></tr><tr><td><a href="#" class="liste"> Fertat Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Fikri Hssina </a></td></tr><tr><td><a href="#" class="liste"> Flégier Max </a></td></tr><tr><td><a href="#" class="liste"> Fquih Regragui Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Frison Jehan </a></td></tr><tr><td><a href="#" class="liste"> Fuentes Antonio </a></td></tr><tr><td><a href="#" class="liste"> Gabbadi Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Garnier </a></td></tr><tr><td><a href="#" class="liste"> Gbouri Fatna </a></td></tr><tr><td><a href="#" class="liste"> Gharbaoui Jilali </a></td></tr><tr><td><a href="#" class="liste"> Ghattas Abdelkrim </a></td></tr><tr><td><a href="#" class="liste"> Gilles Michel </a></td></tr><tr><td><a href="#" class="liste"> Glaoui Hassan </a></td></tr><tr><td><a href="#" class="liste"> Gourane Omar </a></td></tr><tr><td><a href="#" class="liste"> Grosse Jean Pierre </a></td></tr><tr><td><a href="#" class="liste"> Géan Claude </a></td></tr><tr><td><a href="#" class="liste"> Génicot Robert </a></td></tr><tr><td><a href="#" class="liste"> Génisson Georges Paul </a></td></tr><tr><td><a href="#" class="liste"> Haardt G </a></td></tr><tr><td><a href="#" class="liste"> Habbouli Bouchaib </a></td></tr><tr><td><a href="#" class="liste"> Haj Nassar Chadia </a></td></tr><tr><td><a href="#" class="liste"> Haji Said </a></td></tr><tr><td><a href="#" class="liste"> Hallouly El Mostafa </a></td></tr><tr><td><a href="#" class="liste"> Hamri Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Hariri Abdellah </a></td></tr><tr><td><a href="#" class="liste"> Hasbaoui Imane </a></td></tr><tr><td><a href="#" class="liste"> Hassani Saad </a></td></tr><tr><td><a href="#" class="liste"> Henri d'Orléans "Comte de Paris" </a></td></tr><tr><td><a href="#" class="liste"> Hilmi Hammad </a></td></tr><tr><td><a href="#" class="liste"> Horbaniuc Liana (Roumanie) </a></td></tr><tr><td><a href="#" class="liste"> Housbane Said </a></td></tr><tr><td><a href="#" class="liste"> Housti Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Ibarra Carlos </a></td></tr><tr><td><a href="#" class="liste"> Ibrahimi Salah Eddine </a></td></tr><tr><td><a href="#" class="liste"> Idrissi Moulay Ali </a></td></tr><tr><td><a href="#" class="liste"> Igor Loginov (Russie / Maroc) </a></td></tr><tr><td><a href="#" class="liste"> Inkach Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Issami Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Issiakhem M'hamed </a></td></tr><tr><td><a href="#" class="liste"> Jaamati Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Jaimendes </a></td></tr><tr><td><a href="#" class="liste"> Jantet E </a></td></tr><tr><td><a href="#" class="liste"> Jaride Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Jmiji Zahra </a></td></tr><tr><td><a href="#" class="liste"> Jolivet Patrick </a></td></tr><tr><td><a href="#" class="liste"> Kabbaj Yacout </a></td></tr><tr><td><a href="#" class="liste"> Kalmoun Abdelhamid </a></td></tr><tr><td><a href="#" class="liste"> Karsenti Josette </a></td></tr><tr><td><a href="#" class="liste"> Khalladi Houda </a></td></tr><tr><td><a href="#" class="liste"> Khassif Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Khourrassani Younes </a></td></tr><tr><td><a href="#" class="liste"> Khurshid Alam Saleem </a></td></tr><tr><td><a href="#" class="liste"> Korati Hayat </a></td></tr><tr><td><a href="#" class="liste"> Kotiba Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Krich Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Krifla Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Krouni Abdelkhalek </a></td></tr><tr><td><a href="#" class="liste"> Labrem Ahlem </a></td></tr><tr><td><a href="#" class="liste"> Lahbabi Kamal </a></td></tr><tr><td><a href="#" class="liste"> Lahbabi Wiam </a></td></tr><tr><td><a href="#" class="liste"> Lahlou Kenza </a></td></tr><tr><td><a href="#" class="liste"> Lahlou Raja </a></td></tr><tr><td><a href="#" class="liste"> Lahrichi Aziz </a></td></tr><tr><td><a href="#" class="liste"> Lahrichi Najib </a></td></tr><tr><td><a href="#" class="liste"> Lahssini Said </a></td></tr><tr><td><a href="#" class="liste"> Lakhdar Hassane </a></td></tr><tr><td><a href="#" class="liste"> Latif A </a></td></tr><tr><td><a href="#" class="liste"> Laurent Jean-Emile </a></td></tr><tr><td><a href="#" class="liste"> Lavit Claudine </a></td></tr><tr><td><a href="#" class="liste"> Lenka (Russie) </a></td></tr><tr><td><a href="#" class="liste"> Licer Touria </a></td></tr><tr><td><a href="#" class="liste"> Lidrissi Moulay Hicham </a></td></tr><tr><td><a href="#" class="liste"> Lindenau Martin </a></td></tr><tr><td><a href="#" class="liste"> Liszaj Laurence </a></td></tr><tr><td><a href="#" class="liste"> Lorjou Bernard </a></td></tr><tr><td><a href="#" class="liste"> Lourhraz Abdel Aziz </a></td></tr><tr><td><a href="#" class="liste"> Madani Abderrahim </a></td></tr><tr><td><a href="#" class="liste"> Maftah El Mostafa </a></td></tr><tr><td><a href="#" class="liste"> Mahjoubi Hind </a></td></tr><tr><td><a href="#" class="liste"> Maier Salomé </a></td></tr><tr><td><a href="#" class="liste"> Malard Anna Maria </a></td></tr><tr><td><a href="#" class="liste"> Mansouri Idrissi Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Mantel Jean-Gaston </a></td></tr><tr><td><a href="#" class="liste"> Manzana Pissaro Georges </a></td></tr><tr><td><a href="#" class="liste"> Matevski Cane </a></td></tr><tr><td><a href="#" class="liste"> Melehi Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Melikoff Athanase Loris </a></td></tr><tr><td><a href="#" class="liste"> Mellakh Abdelhay </a></td></tr><tr><td><a href="#" class="liste"> Meskar Abdelkader </a></td></tr><tr><td><a href="#" class="liste"> Mesnani (El) Rabie </a></td></tr><tr><td><a href="#" class="liste"> Messaoud </a></td></tr><tr><td><a href="#" class="liste"> Mezouar Wafaa </a></td></tr><tr><td><a href="#" class="liste"> Mghara Mekki (Meghara) </a></td></tr><tr><td><a href="#" class="liste"> Mhatat Anas </a></td></tr><tr><td><a href="#" class="liste"> Miaulttaris Elric </a></td></tr><tr><td><a href="#" class="liste"> Michraf </a></td></tr><tr><td><a href="#" class="liste"> Mofid El Mehdi </a></td></tr><tr><td><a href="#" class="liste"> Morin Bernard </a></td></tr><tr><td><a href="#" class="liste"> Moujlil Aziz </a></td></tr><tr><td><a href="#" class="liste"> Mouline Salim </a></td></tr><tr><td><a href="#" class="liste"> Mourahib Fatiha </a></td></tr><tr><td><a href="#" class="liste"> Mrani Alaoui Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Muller Fritz </a></td></tr><tr><td><a href="#" class="liste"> Naciri Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Naira Margaret </a></td></tr><tr><td><a href="#" class="liste"> Neri Paul </a></td></tr><tr><td><a href="#" class="liste"> Nouiri Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Nour El Houda </a></td></tr><tr><td><a href="#" class="liste"> Omari Laraki Ilham </a></td></tr><tr><td><a href="#" class="liste"> Ouajjou Sonia </a></td></tr><tr><td><a href="#" class="liste"> Ouazzani Abdelkarim (Louazzani) </a></td></tr><tr><td><a href="#" class="liste"> Ouriachi Nadia </a></td></tr><tr><td><a href="#" class="liste"> Outamrich Youssef </a></td></tr><tr><td><a href="#" class="liste"> Palamino Mekki </a></td></tr><tr><td><a href="#" class="liste"> Papart Max </a></td></tr><tr><td><a href="#" class="liste"> PeterAtmenSan </a></td></tr><tr><td><a href="#" class="liste"> Pignon Edouard </a></td></tr><tr><td><a href="#" class="liste"> Pilot Albert </a></td></tr><tr><td><a href="#" class="liste"> Poujol Olivier </a></td></tr><tr><td><a href="#" class="liste"> Poulain Jean </a></td></tr><tr><td><a href="#" class="liste"> Pulicani Jean </a></td></tr><tr><td><a href="#" class="liste"> Qannibou Mohammed </a></td></tr><tr><td><a href="#" class="liste"> Qodaid Said </a></td></tr><tr><td><a href="#" class="liste"> Rabeh Cherifa </a></td></tr><tr><td><a href="#" class="liste"> Rahmani Abdelilah </a></td></tr><tr><td><a href="#" class="liste"> Rais Abdelilah </a></td></tr><tr><td><a href="#" class="liste"> Raji Rabiaa </a></td></tr><tr><td><a href="#" class="liste"> Ramhani Abdelilah </a></td></tr><tr><td><a href="#" class="liste"> Ramos Jose Luis Checa </a></td></tr><tr><td><a href="#" class="liste"> Rebelo Joao Carlos </a></td></tr><tr><td><a href="#" class="liste"> Remmal Mia </a></td></tr><tr><td><a href="#" class="liste"> Rhessal Nadia </a></td></tr><tr><td><a href="#" class="liste"> Rhommani Mustapha </a></td></tr><tr><td><a href="#" class="liste"> Rhorbal Abdelkader </a></td></tr><tr><td><a href="#" class="liste"> Ribet Jacqueline </a></td></tr><tr><td><a href="#" class="liste"> Rmili Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Rosalia Ina </a></td></tr><tr><td><a href="#" class="liste"> Saden Younes </a></td></tr><tr><td><a href="#" class="liste"> Sakkat Khadija </a></td></tr><tr><td><a href="#" class="liste"> Saladi Abbas </a></td></tr><tr><td><a href="#" class="liste"> Sanoussi Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Sebi Khalid </a></td></tr><tr><td><a href="#" class="liste"> Sekkat Nawal </a></td></tr><tr><td><a href="#" class="liste"> Semlali Abdelilah </a></td></tr><tr><td><a href="#" class="liste"> Serroukh Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Siam </a></td></tr><tr><td><a href="#" class="liste"> Sidi H'bibi Hafid </a></td></tr><tr><td><a href="#" class="liste"> Skiredj Lamia Miriam </a></td></tr><tr><td><a href="#" class="liste"> Smith Marie Désirée </a></td></tr><tr><td><a href="#" class="liste"> Sordo Abdelouahed </a></td></tr><tr><td><a href="#" class="liste"> Souab Hassan </a></td></tr><tr><td><a href="#" class="liste"> Streichert Irene </a></td></tr><tr><td><a href="#" class="liste"> Tabal Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Tahiri Yasmine </a></td></tr><tr><td><a href="#" class="liste"> Tahri Siham </a></td></tr><tr><td><a href="#" class="liste"> Tajiouti Abdelkrim </a></td></tr><tr><td><a href="#" class="liste"> Taleb Rachid </a></td></tr><tr><td><a href="#" class="liste"> Tallal Chaibia </a></td></tr><tr><td><a href="#" class="liste"> Tallal Hossein </a></td></tr><tr><td><a href="#" class="liste"> Teber Aziz </a></td></tr><tr><td><a href="#" class="liste"> Toumi Mohamed </a></td></tr><tr><td><a href="#" class="liste"> Touta Aziz </a></td></tr><tr><td><a href="#" class="liste"> Valadié Jean-Baptiste </a></td></tr><tr><td><a href="#" class="liste"> Valès Edmond </a></td></tr><tr><td><a href="#" class="liste"> Van Biesbroeck Jules (Pierre) </a></td></tr><tr><td><a href="#" class="liste"> Van Mens Isidore </a></td></tr><tr><td><a href="#" class="liste"> Verat Marc </a></td></tr><tr><td><a href="#" class="liste"> Vernet Laurence </a></td></tr><tr><td><a href="#" class="liste"> Von Boris </a></td></tr><tr><td><a href="#" class="liste"> Warrak Mustapha </a></td></tr><tr><td><a href="#" class="liste"> West Bill </a></td></tr><tr><td><a href="#" class="liste"> Yacoubi (El) Ahmed Ben Driss </a></td></tr><tr><td><a href="#" class="liste"> Yacoubi Abdellah </a></td></tr><tr><td><a href="#" class="liste"> Yacoubi Lotfi </a></td></tr><tr><td><a href="#" class="liste"> Yaze - Mekhnache Yassine </a></td></tr><tr><td><a href="#" class="liste"> Zabbita Ahmed </a></td></tr><tr><td><a href="#" class="liste"> Zaid Touria </a></td></tr><tr><td><a href="#" class="liste"> Zenati Abderrahmane </a></td></tr><tr><td><a href="#" class="liste"> Zeraïdi Abdellatif </a></td></tr><tr><td><a href="#" class="liste"> Zine Abdellatif </a></td></tr><tr><td><a href="#" class="liste"> Zine Abdelouahab </a></td></tr><tr><td><a href="#" class="liste"> Ziyat Noureddine </a></td></tr><tr><td><a href="#" class="liste"> Zizi Moulay Rachid </a></td></tr><tr><td><a href="#" class="liste"> Zouhari Youssef </a></td></tr><tr><td><a href="#" class="liste"> Zouzaf Mohamed </a></td></tr>                            </tbody></table>
+                          </div>     
+                        </div>
+                       
+                      
+                      <label> Type d'oeuvre :</label><br>
+                                              <select name="typeOeuvre" class="select2" id="SelTest">
+                                              <option value="All" selected="selected"></option>
+                                              <option value="tableau">Tableaux</option>
+                                              <option value="sculpture">Sculptures</option>
+                                              <option value="photographie">Photographies</option>
+                                              <option value="bijoux">Bijoux</option>
+                                              <option value="livre">Livres</option>
+                                              <option value="decoration">Objets de décoration</option>
+                                              <option value="caftan">Caftans</option>
+                                              <option value="meuble">Meubles</option>
+                                              <option value="tapis">Tapis</option>
+                                              </select>
+
+                                            <label> Style : </label>
+                                            <select class="select2" id="style"><option></option>
+                                             <option>Moderne</option>
+                                             <option>Figuratif</option>
+                                             <option>Abstrait</option>
+                                             <option value="naif" >Naif/Primitif</option></select>
+                   
+                    </form>
+                   
+                  </div>
+                 </div>
+                 <br>
+                 <br>
+                 
+                 <div class="artistarticle">
+               <div class="seagreen"><span>Nouveautés</span></div>
+                   <div class="evenment">
+          <div id="myCarouselMini" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                      <li data-target="#myCarouselMini" data-slide-to="0" class="active"></li>
+                      <li data-target="#myCarouselMini" data-slide-to="1"></li>
+                      <li data-target="#myCarouselMini" data-slide-to="2"></li>
+                    </ol>
+                    
+                   
+                    
+                    <!-- Wrapper for slides -->
+                    
+                        <!--test-->
+                        <div class="carousel-inner" role="listbox" style="height: 370px;width:251px;">
+                            <div class="item active left">
+                        <a href="oeuvre.php?artiste= Nadif Khalid &amp;oeuvre=AVFbDtlgAycuywEGEweI&amp;type=nouveau"><div class="oeuvre_detail"><strong>“ Nadif Khalid ”</strong><br>Grand visage de Nadif</div><br><img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/khalid_nadif_mixte_sur_toile_100_x_101_cm_35_000_dirhams.jpg" width="250"></a></div><div class="item next left"><a href="oeuvre.php?artiste= Nadif Khalid &amp;oeuvre=AVFbDtZ-AycuywEGEweH&amp;type=nouveau"><div class="oeuvre_detail"><strong>“ Nadif Khalid ”</strong><br>Visages en noir de Nadif</div><br><img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/khalid_nadif_mixte_sur_toile_80_x_80_cm_25_000_dirhams_2.jpg" width="250"></a></div><div class="item"><a href="oeuvre.php?artiste= Nadif Khalid &amp;oeuvre=AVFbDtWpAycuywEGEweG&amp;type=nouveau"><div class="oeuvre_detail"><strong>“ Nadif Khalid ”</strong><br>Visages de Nadif</div><br><img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/khalid_nadif_mixte_sur_toile_80_x_80_cm_25_000_dirhams.jpg" width="250"></a></div>                    </div>
+                        <!--test end-->
+                          
+                  
+          </div>
+      
+      </div>
+                  </div>
+                <br>
+                 <br>
+              
+                
+
+                <div class="artistarticle">
+                
+                    <div class="teal"><span>Evénements &amp; News</span></div><br>
+
+                    <div class="evenment">
+                                        <span class="evenment_titre">Mardi 20 Octobre : Artingis fête ses 5 ans avec Mostapha Ben Malek</span>
+
+                    <div class="evenment_img"><img src="http://www.vosartistes.com/sites/default/files/10_ben_malek_mixte_sur_toile_92_x_90_cm_6_000_dirhams_0.jpg?1445335243"></div><br>
+
+                    <p>Du Ven, 30/10/2015 Au Sam, 21/11/2015.<br>Au Galerie Artingis.</p>
+
+                    <div class="evenment_plus"><a class="textdeco" href="evenment.php?event=Mardi 20 Octobre : Artingis fête ses 5 ans avec Mostapha Ben Malek&amp;du=Ven, 30/10/2015&amp;au=Sam, 21/11/2015">+</a></div>
+
+                    </div>
+
+                </div>
+                <br>
+                
+             </div>
+<div id="artist_right">
+             
+             <div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/garnier_mixte_sur_toile_54_x_72_cm_18_000_dirhams.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Garnier</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Garnier"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01287__mod_0.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Bekkali Mokhtar</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Bekkali Mokhtar"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dim_80x60cm_prix_20.000dh_idrissi.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Edrissi Ahmadi Omar</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Edrissi Ahmadi Omar"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc09644_ssd.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Roybal Joyce</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Roybal Joyce"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01307_3_femmes_mariee.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Chahidi</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Chahidi"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/rmili_le_souk_mixte_sur_toile_130_x_85_cm_40_000_dirhams.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Rmili Ahmed</span><br><span class="tableaux_nombre">10 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Rmili Ahmed"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/img_3971.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Haji Said</span><br><span class="tableaux_nombre">2 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Haji Said"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/mohamed_el_alami_femme_a_la_theiere_91_x_85_cm_8_000_dirhams.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">El Alami Mohamed (Tanger)</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=El Alami Mohamed (Tanger)"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc07798_mod.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Barton</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Barton"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc07428_mod.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span value="naif">Naif/Primitif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Smires-SBS</span><br><span class="tableaux_nombre">3 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Smires-SBS"><img src="img/survol.png"></a> </span></div>              <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Facebook Cross Domain Communication Frame" aria-hidden="true" tabindex="-1" id="fb_xdm_frame_http" src="http://static.ak.facebook.com/connect/xd_arbiter/TlA_zCeMkxl.js?version=41#channel=fa368bde&amp;origin=http%3A%2F%2Fwww.vosartistes.com" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Facebook Cross Domain Communication Frame" aria-hidden="true" tabindex="-1" id="fb_xdm_frame_https" src="https://s-static.ak.facebook.com/connect/xd_arbiter/TlA_zCeMkxl.js?version=41#channel=fa368bde&amp;origin=http%3A%2F%2Fwww.vosartistes.com" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.4";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+                   	<div class="fb-like fb_iframe_widget" data-href="" data-send="false" data-width="70" data-show-faces="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;container_width=660&amp;href=http%3A%2F%2Fwww.vosartistes.com%2Fv2%2Fartistes.php&amp;locale=fr_FR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=70"><span style="vertical-align: bottom; width: 225px; height: 28px;"><iframe name="fb3c47e7" width="70px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="http://www.facebook.com/v2.4/plugins/like.php?app_id=&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FTlA_zCeMkxl.js%3Fversion%3D41%23cb%3Df290a8e0c4%26domain%3Dwww.vosartistes.com%26origin%3Dhttp%253A%252F%252Fwww.vosartistes.com%252Ffa368bde%26relation%3Dparent.parent&amp;container_width=660&amp;href=http%3A%2F%2Fwww.vosartistes.com%2Fv2%2Fartistes.php&amp;locale=fr_FR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=70" style="border: none; visibility: visible; width: 225px; height: 28px;" class=""></iframe></span></div>
+               
+
+<div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01786_bouhtouri.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">El Bouhtouri Abdelkebir</span><br><span class="tableaux_nombre">5 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=El Bouhtouri Abdelkebir"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/galets_sourire.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Bargach El Batoul</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Bargach El Batoul"><img src="img/survol.png"></a> </span></div>
+
+
+<div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/mohamed_naciri_60_x_40_cm_mixte.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Naciri Mohamed</span><br><span class="tableaux_nombre">2 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Naciri Mohamed"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc09161_mod.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Melikoff Athanase Loris</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Melikoff Athanase Loris"><img src="img/survol.png"></a> </span></div>
+
+
+<div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc08836_mod.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Al Safar Ali (Arabie Saoudite)</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Al Safar Ali (Arabie Saoudite)"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/aphoto_non_disponible_13.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Verschaffelt Edouard</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Verschaffelt Edouard"><img src="img/survol.png"></a> </span></div>
+
+
+<div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/aphoto_non_disponible_1.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">Muller Fritz</span><br><span class="tableaux_nombre">2 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=Muller Fritz"><img src="img/survol.png"></a> </span></div><div class="tableaux"><img width="164px" height="138px" src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01863_m_harti.jpg"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span><span>Naif</span></div><div class="tableaux_detail"><span class="tableaux_titre">El Harti Mustapha</span><br><span class="tableaux_nombre">1 oeuvres publiées </span></div><span class="tableaux_servol"><a href="artiste.php?artiste=El Harti Mustapha"><img src="img/survol.png"></a> </span></div>
+</div>          
+               <div class="animation_image" style="display:none; position: relative; top: 30px; left: 160px;" align="center"><img src="loader1.gif"></div>
+
+                <br>
+                <br>
+                <br>
+              
+             
+           </section>
+            
+            
+          
+            <footer>
+           
+                <div id="footer_top"> <br>
+                  <div class="row">
+                      <div class="col-lg-2">
+                        <div class="liste">
+                                  <ul>
+                                      <li><a href="artistes.html">Artistes</a></li>
+                                      <li><a href="oeuvres.html">Oeuvres</a></li>
+                                      <li><a href="evenments.html">Actualités & Evénements</a></li>
+                                      
+                                  </ul>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-4">
+                        <div class="liste">
+                                  <ul>
+                                      <li><a href="exposer.html">Comment exposer</a></li>
+                                      <li><a href="qsn.html">Qui sommes nous</a></li>
+                                      <li><a href="mentions.html">Conditions Générales de Vente</a></li>
+                                      
+                                  </ul>
+                        </div>
+                      </div>
+                      
+                      <div class="col-lg-2">
+                        <div class="liste">
+                          <ul>
+                              <li><a href="mentions.html">Mentions légales</a></li>
+                              <li><a href="#">Accès partenaire</a></li>
+                              <li><a href="#">Accés membre</a></li>
+                              
+                          </ul>
+                        </div>
+                      </div>
+                      
+                      <div class="col-lg-4">
+                        <div class="liste no">
+                          <ul>
+                              <li><i class="fa fa-phone"></i> <a href="tel:+212.6.60.15.94.94"> +212.6.60.15.94.94</a></li>
+                              <li><i class="fa fa-envelope"></i><a href="mailto:vosartistes.com@gmail.com">  Nous écrire</a></li>
+                              <li><i class="fa fa-fax"></i><a href="tel:+212.5.22.94.24.13">+212.5.22.94.24.13</a></li>
+                          </ul>
+                        </div>
+                      </div>
+        
+                    </div>
+
+                  <br>
+                  </div>
+
+                <div id="footer_bottom">
+                  <div id="footer_bottom_left">Copyright @2014</div>
+                  <div id="footer_bottom_center"><img src="img/logoeco.png"></div>
+                  <div id="footer_bottom_right">
+                      <a href="http://www.vosartistes.com/rss.xml"><img src="img/rss-footer.png" /></a>
+                      <a href="https://twitter.com/Vosartistes"><img src="img/twitter-footer.png" /></a>
+                      <a href="https://www.facebook.com/vosartistes"><img src="img/facebook-footer.png" /></a>
+                  </div>
+                  
+
+                </div>
+               
+                
+            </footer>
+        </div>
+
+
+        <div class="xxx">
+            <a href="http://www.vosartistes.com/liste-tableaux" style="cursor:pointer;z-index:999;"><div id="backtov1">Retourner à la version originale</div></a>
+            
+            <header class="header" style="background:#8A1527">
+              <div id="n"><a href="#" class="slideout-menu-toggle"><i class="fa fa-bars"></i> </a></div>
+
+              <div class="slideout-menu" id="slideout-rose">
+               <ul>
+                <li><a href="index.html"><i class="fa fa-home"></i> Accueil</a></li>
+                <li><a href="artistes.html"><i class="fa fa-paint-brush"></i> Artistes</a></li>
+                <li><a href="oeuvres.html"><i class="fa fa-picture-o"></i> Oeuvres</a></li>
+                <li><a href="evenments.html"><i class="fa fa-calendar"></i> Actualités & Evénements</a></li>
+                <li><a href="#"><i class="fa fa-users"></i> Espace Membres</a></li>
+                <li><a href="contact.html"><i class="fa fa-user"></i> Contact</a></li>
+                <li class="def slideout-rose">Social Media</li>
+                <li><a href="https://www.facebook.com/vosartistes"><i class="fa fa-facebook"></i> Facebook</a></li>
+                <li><a href="https://twitter.com/Vosartistes"><i class="fa fa-twitter"></i> Twitter</a></li>
+                <li><a href="vosartistes.com@gmail.com"><i class="fa fa-google-plus"></i> Google Plus</a></li>
+                <li class="def slideout-rose">Newsletter</li>
+                
+              </ul>
+              <div style="margin: 10px;">
+                <h4>Email Newsletters</h4>
+                  <p>Abonnez-vous à recevoir l'inspiration, des idées et nouvelles dans votre boîte de réception.</p>
+
+                  <form>
+                    <input type="text" placeholder="Newsletter">
+                    <span class="nbutton slideout-rose">Souscrire</span>
+                  </form>
+              </div>
+              
+              </div>
+
+                    <div id="logo">
+                        <img src="img/logo.png">
+                    </div>
+
+                    <div id="sos"><i class="fa fa-search"></i></div>
+
+                </header>
+
+
+                <div class="content">
+
+                <section>
+                <div class="social">
+                <div class="left-social">
+                    <span><a href='https://twitter.com/Vosartistes'><img src="img/twitter3.png"></a></span>
+                    <span><a href='vosartistes.com@gmail.com'><img src="img/google2.png"></a></span>
+                    <span><a href='https://www.facebook.com/vosartistes'>
+                    <img src="img/facebook1.png"></a></span>
+                  </div>
+                  
+                  <div class="right-social">
+                    <span><div class="fb-like" data-href="https://www.facebook.com/vosartistes" data-width="65" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false" style="display: block;margin: -5px;"></div></span>
+                    <div class="btn-group">
+							  <div class="btn-group">
+								<button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
+								  Langue
+								  <span class="caret"></span>
+								</button>
+								<!-- translator -->
+								<ul class="dropdown-menu">
+									<li><a href="javascript:;" title="French" class="translator-language-fr"><img src="translator/images/French.gif" alt="French" /></a></li>
+									<li><a href="javascript:;" title="English" class="translator-language-en"><img src="translator/images/English.gif" alt="English" /></a></li>
+									<li><a href="javascript:;" title="Spanish" class="translator-language-es"><img src="translator/images/Spanish.gif" alt="Spanish" /></a></li>
+									<li><a href="javascript:;" title="Arabic" class="translator-language-ar"><img src="translator/images/Arabic.gif" alt="Arabic" /></a></li>
+								</ul>
+								
+								
+								<!-- translator -->
+								<!--<ul class="dropdown-menu">
+								  <li><a href="#">fr</a></li>
+								  <li><a href="#">en</a></li>
+								</ul>-->
+							  </div>
+							</div>
+
+                  </div> 
+                  
+                 </div>
+                 
+
+                </section>
+
+                <section id="loadmobil">
+                 <div id="ra" class="racolorrose">
+
+                  <div class="searchmob">
+                    
+                     <table  style="margin: 0 auto; width:90%; text-align: right;">
+                            <tr>
+                              <td><label>Artistes</label></td><td><input id="miniart" type="checkbox" ></td>
+                              
+                               <td><label>Oeuvres</label></td><td><input id="minioeu" type="checkbox"></td>
+                             
+                               <td><label>Evenement</label></td><td><input id="minieve" type="checkbox"></td>
+                              
+                            </tr>
+
+                          </table>
+                          <form id="kkk" class="raform " action="#" style="display:block;">
+                      
+                      <input type="text" placeholder="Artistes,Oeuvres,Evénements"><br><br>
+                      <button type="button" class=" btm-themesrose ">Valider</button><br>
+
+
+                  </form>
+
+                  <form id="hhh" class="raform" action="#" style="display:none;">
+                      
+                      <input type="text" placeholder="Artistes,Oeuvres"><br><br>
+
+                      <select>
+                          <option>Type d’oeuvre</option>
+                          <option value="tableau">Tableaux</option>
+                                              <option value="sculpture">Sculptures</option>
+                                              <option value="photographie">Photographies</option>
+                                              <option value="bijoux">Bijoux</option>
+                                              <option value="livre">Livres</option>
+                                              <option value="decoration">Objets de décoration</option>
+                                              <option value="caftan">Caftans</option>
+                                              <option value="meuble">Meubles</option>
+                                              <option value="tapis">Tapis</option>
+                      </select><br><br>
+                      <select>
+                         <option>Style</option>
+                          <option>Moderne</option>
+                          <option>Figuratif</option>
+                          <option>Abstrait</option>
+                          <option value="naif" >Naif/Primitif</option>
+                      </select><br><br>
+
+                      <button type="button" class=" btm-themesrose ">Valider</button>
+
+                      
+                  </form>
+
+                  <form id="ddd" class="raform" action="#" style="display:none;">
+                      
+                      <input type="text" placeholder="Evénements"><br><br>
+                      <input id="dp5" type="text" placeholder="Date début"><br><br>
+                      <input id="dp6" type="text" placeholder="Date fin"><br><br>
+
+                      <button type="button" class=" btm-themesrose ">Valider</button>
+
+                      
+                  </form>
+                   
+                     <br>
+                  </div>
+                  
+               
+                    
+
+                </div>
+                <br>
+
+
+                  
+
+
+                 <div class="miniartistess">
+                  <div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Garnier"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/garnier_mixte_sur_toile_54_x_72_cm_18_000_dirhams.jpg" width="100"></a></div><div class="left infoss"><h3>Garnier</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Bekkali Mokhtar"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01287__mod_0.jpg" width="100"></a></div><div class="left infoss"><h3>Bekkali Mokhtar</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Edrissi Ahmadi Omar"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dim_80x60cm_prix_20.000dh_idrissi.jpg" width="100"></a></div><div class="left infoss"><h3>Edrissi Ahmadi Omar</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Roybal Joyce"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc09644_ssd.jpg" width="100"></a></div><div class="left infoss"><h3>Roybal Joyce</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Chahidi"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc01307_3_femmes_mariee.jpg" width="100"></a></div><div class="left infoss"><h3>Chahidi</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Rmili Ahmed"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/rmili_le_souk_mixte_sur_toile_130_x_85_cm_40_000_dirhams.jpg" width="100"></a></div><div class="left infoss"><h3>Rmili Ahmed</h3><p>10 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Haji Said"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/img_3971.jpg" width="100"></a></div><div class="left infoss"><h3>Haji Said</h3><p>2 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=El Alami Mohamed (Tanger)"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/mohamed_el_alami_femme_a_la_theiere_91_x_85_cm_8_000_dirhams.jpg" width="100"></a></div><div class="left infoss"><h3>El Alami Mohamed (Tanger)</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Barton"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc07798_mod.jpg" width="100"></a></div><div class="left infoss"><h3>Barton</h3><p>1 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div><div class="miniartistes"><div class="left"><a href="artiste.php?artiste=Smires-SBS"> <img src="http://www.vosartistes.com/sites/default/files/imagecache/tableau/dsc07428_mod.jpg" width="100"></a></div><div class="left infoss"><h3>Smires-SBS</h3><p>3 oeuvres publiée</p></div><div class="right"><div class="caracter"><span>Moderne</span><span>Figuratif</span><span>Abstrait</span></div></div></div>              </div>
+               <div class="animation_image" style="display:none;" align="center"><img src="loader1.gif"></div>
+                
+
+                
+
+
+                
+
+
+               
+
+                </section>
+
+                 
+<br>
+                <br>
+              
+                <section class="footer" style="background:#8A1527">
+                <div id="fmobil" style="background:#8A1527">
+                  <div class="liste no">
+                          <ul>
+                              <li><i class="fa fa-phone"></i><a href="tel:+212.6.60.15.94.94"> +212.6.60.15.94.94</a></li>
+                              <li><i class="fa fa-envelope"></i><a href="mailto:vosartistes.com@gmail.com">  Nous écrire par e-mail</a></li>
+                              <li><i class="fa fa-fax"></i> <a href="tel:+212.5.22.94.24.13">+212.5.22.94.24.13</a></li>
+                          </ul>
+                  </div>
+
+
+                  <div class="bottom_right">
+                    
+                    <div class="ftr">
+                     
+                      <a style="color:#fff" href="https://www.facebook.com/vosartistes"> <i class="fa fa-facebook"></i></a>
+                      <a style="color:#fff" href="https://twitter.com/Vosartistes"> <i class="fa fa-twitter"></i></a>
+                      <a style="color:#fff" href="http://www.vosartistes.com/rss.xml"> <i class="fa fa-rss"></i></a>
+                    </div>
+                    
+                    
+                    <div>Copyright @2014</div>
+                  
+
+                  </div>
+
+
+                </div>
+
+                </section>
+
+                   
+                </div>
+
+                
+        </div>
+  </div>
+    
+<script type="text/javascript" src="js/app.js"></script>
+<script src="js/bootstrap-datepicker.js"></script>
+
+<?php
+$total = 100;
+?>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+ /////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+ $("#tags1").focusout(function(){
+        
+        scroll = true;
+        selectTypeOeuvre = $("#SelTest option:selected").val();
+        selectstyle = $("#style option:selected").val();
+        nameart = $("#tags1").val();
+        // nameart = $("#tags1").val();
+
+            if (selectTypeOeuvre=="All" && selectstyle=="" && nameart=="") {
+              scl=true;
+              
+            } else{
+              scl=false;
+
+            };
+
+            $.post( 'restArtistes.html',  {
+                TypeOeuvre : selectTypeOeuvre,
+                style : selectstyle,
+                nameart : nameart
+
+            },
+            function(data){  $( "#artist_right" ).html(data);
+                $(".tableaux").on({
+                    mouseenter: function () {
+                        //$(this).addClass("hover");
+                        $( this ).children(".tableaux_detail").addClass( "visible" );
+                    },
+                    mouseleave:function () {
+                        //$(this).removeClass("hover");
+                        $( this ).children(".tableaux_detail").removeClass( "visible" );
+                    }
+                });
+            }, 'html' );
+    });
+
+
+ 
+ /////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+ $(".select2").change(function(){
+        
+        scroll = true;
+        selectTypeOeuvre = $("#SelTest option:selected").val();
+        selectstyle = $("#style option:selected").val();
+        nameart = $("#tags1").val();
+        // nameart = $("#tags1").val();
+
+            if (selectTypeOeuvre=="All" && selectstyle=="" && nameart=="") {
+              scl=true;
+              
+            } else{
+              scl=false;
+
+            };
+
+            $.post( 'restArtistes.html',  {
+                TypeOeuvre : selectTypeOeuvre,
+                style : selectstyle,
+                nameart : nameart
+
+            },
+            function(data){  $( "#artist_right" ).html(data);
+                $(".tableaux").on({
+                    mouseenter: function () {
+                        //$(this).addClass("hover");
+                        $( this ).children(".tableaux_detail").addClass( "visible" );
+                    },
+                    mouseleave:function () {
+                        //$(this).removeClass("hover");
+                        $( this ).children(".tableaux_detail").removeClass( "visible" );
+                    }
+                });
+            }, 'html' );
+    });
+
+
+
+
+ /////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+ $(".liste").click(function(){
+  scl=false;
+
+              scroll = true;
+              selectTypeOeuvre = $("#SelTest option:selected").val();
+              selectstyle = $("#style option:selected").val();
+              nameart = $(this).text();
+
+              $("#tags1").val(nameart);
+
+              $(".modal-box, .modal-overlay").fadeOut(500, function() {
+                  $(".modal-overlay").remove();
+              });
+              // nameart = $("#tags1").val();
+
+                  $.post( 'restArtistes.html',  {
+                      TypeOeuvre : selectTypeOeuvre,
+                      style : selectstyle,
+                      nameart : nameart
+
+                  },
+                  function(data){
+
+                    $( "#artist_right" ).html(data);
+                      $(".tableaux").on({
+                          mouseenter: function () {
+                              //$(this).addClass("hover");
+                              $( this ).children(".tableaux_detail").addClass( "visible" );
+                          },
+                          mouseleave:function () {
+                              //$(this).removeClass("hover");
+                              $( this ).children(".tableaux_detail").removeClass( "visible" );
+                          }
+                      });
+                  }, 'html' );
+          });
+
+
+
+
+  ///////////////////////////////////////////////////////////////////////////////////////
+  var track_load = 11; //total loaded record group(s)
+  var loading  = false; //to prevents multipal ajax loads
+  var total = <?php echo $total; ?>; //total record group(s)
+  
+  //$('#artist_right').load("autoload_oeuvres.html", {'group_no':track_load}, function() {track_load++;}); //load first group
+  
+  $(window).scroll(function() { //detect page scroll
+    
+    if($(window).scrollTop() + $(window).height() == $(document).height())  //user scrolled to bottom of the page?
+    {
+      
+      if(track_load <= total && loading==false) //there's more data to load
+      {
+        loading = true; //prevent further ajax loading
+        $('.animation_image').show(); //show loading image
+        
+        //load data from the server using a HTTP POST request
+        $.post('autoload_artistes.html',{'group_no': track_load}, function(data){
+                  
+          $("#artist_right").append(data);
+           //append received data into the element
+
+               
+          //hide loading image
+          $('.animation_image').hide(); //hide loading image once data is received
+          
+          track_load++; //loaded group increment
+          loading = false; 
+        
+        }).fail(function(xhr, ajaxOptions, thrownError) { //any errors?
+          
+          alert(thrownError); //alert with HTTP error
+          $('.animation_image').hide(); //hide loading image
+          loading = false;
+        
+        });
+        
+      }
+    }
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  var track_load = 11; //total loaded record group(s)
+  var loading  = false; //to prevents multipal ajax loads
+  var total = <?php echo $total; ?>; //total record group(s)
+  
+  //$('#artist_right').load("autoload_oeuvres.html", {'group_no':track_load}, function() {track_load++;}); //load first group
+  
+  $(window).scroll(function() { //detect page scroll
+    
+    if($(window).scrollTop() + $(window).height() == $(document).height())  //user scrolled to bottom of the page?
+    {
+      
+      if(track_load <= total && loading==false) //there's more data to load
+      {
+        loading = true; //prevent further ajax loading
+        $('.animation_image_responsive').show(); //show loading image
+        
+        //load data from the server using a HTTP POST request
+        $.post('autoload_artistes_responsive.html',{'group_no': track_load}, function(data){
+                  
+          $(".miniartistess").append(data);
+           //append received data into the element
+
+               
+
+          //hide loading image
+          $('.animation_image_responsive').hide(); //hide loading image once data is received
+          
+          track_load++; //loaded group increment
+          loading = false; 
+        
+        }).fail(function(xhr, ajaxOptions, thrownError) { //any errors?
+          
+          alert(thrownError); //alert with HTTP error
+          $('.animation_image_responsive').hide(); //hide loading image
+          loading = false;
+        
+        });
+        
+      }
+    }
+  });
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+  var track_load = 3; //total loaded record group(s)
+  var loading  = false; //to prevents multipal ajax loads
+  var total = <?php echo $total; ?>; //total record group(s)
+  
+  //$('#artist_right').load("autoload_oeuvres.html", {'group_no':track_load}, function() {track_load++;}); //load first group
+  
+  $(window).scroll(function() { //detect page scroll
+    
+    if($(window).scrollTop() + $(window).height() == $(document).height())  //user scrolled to bottom of the page?
+    {
+      
+      if(track_load <= total && loading==false) //there's more data to load
+      {
+        loading = true; //prevent further ajax loading
+        $('.animation_image_responsive').show(); //show loading image
+        
+        //load data from the server using a HTTP POST request
+        $.post('autoload_oeuvres_responsive.html',{'group_no': track_load}, function(data){
+                  
+          $("#minioeuvress").append(data);
+           //append received data into the element
+
+               
+
+          //hide loading image
+          $('.animation_image_responsive').hide(); //hide loading image once data is received
+          
+          track_load++; //loaded group increment
+          loading = false; 
+        
+        }).fail(function(xhr, ajaxOptions, thrownError) { //any errors?
+          
+          alert(thrownError); //alert with HTTP error
+          $('.animation_image_responsive').hide(); //hide loading image
+          loading = false;
+        
+        });
+        
+      }
+    }
+  });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+
+// function extractUrlParams(){  
+//   var t = location.search.substring(1).split('&');
+//   var f = [];
+//   for (var i=0; i<t.length; i++){
+//     var x = t[ i ].split('=');
+//     f[x[0]]=x[1];
+//   }
+//   return f;
+// }
+// var x=extractUrlParams();
+// var nameA=x['nameartistes'];
+// var typeO=x['typeOeuvre'];
+// var styleO=x['style'];
+
+// var res = nameA.replace(/%20/g, " ");
+
+//  document.getElementById("tags1").value = res;
+
+//     var style = document.getElementById('style');
+//     var opts = style.options;
+//     for(var opt, j = 0; opt = opts[j]; j++) {
+//         if(opt.value == styleO) {
+//             style.selectedIndex = j;
+//             break;
+//         }
+//     }
+
+
+//     var SelTest = document.getElementById('SelTest');
+//     var opts = SelTest.options;
+//     for(var opt, i = 0; opt = opts[i]; i++) {
+//         if(opt.value == typeO) {
+//             SelTest.selectedIndex = i;
+//             break;
+//         }
+//     }
+
+
+
+
+
+
+
+
+
+  //////////////////////////////////////////////////////////////////////////////
+    $('.slideout-menu-toggle').on('click', function(event){
+      event.preventDefault();
+      // create menu variables
+      var slideoutMenu = $('.slideout-menu');
+      var slideoutMenuWidth = $('.slideout-menu').width();
+      
+      // toggle open class
+      slideoutMenu.toggleClass("open");
+      
+      // slide menu
+      if (slideoutMenu.hasClass("open")) {
+        slideoutMenu.animate({
+          left: "0px"
+        }); 
+        $( "#ra" ).removeClass( "visible" )
+        $( '.peloton' ).removeClass( "blur" );
+        $( '.miniartistes' ).removeClass( "blur" );
+      } else {
+        slideoutMenu.animate({
+          left: -slideoutMenuWidth
+        }, 250);  
+      }
+    });
+});
+</script>
+
+  <script>
+  
+    $(function(){
+      window.prettyPrint && prettyPrint();
+      // disabling dates
+        var nowTemp = new Date();
+        var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
+
+        var checkin = $('#dpd1').datepicker({
+          onRender: function(date) {
+            //return date.valueOf() < now.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          if (ev.date.valueOf() > checkout.date.valueOf()) {
+            var newDate = new Date(ev.date)
+            newDate.setDate(newDate.getDate() + 1);
+            checkout.setValue(newDate);
+          }
+          checkin.hide();
+          $('#dpd2')[0].focus();
+        }).data('datepicker');
+        var checkout = $('#dpd2').datepicker({
+          onRender: function(date) {
+            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          checkout.hide();
+        }).data('datepicker');
+    });
+
+
+$(function(){
+      window.prettyPrint && prettyPrint();
+      // disabling dates
+        var nowTemp = new Date();
+        var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
+
+        var checkin = $('#dpd3').datepicker({
+          onRender: function(date) {
+            //return date.valueOf() < now.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          if (ev.date.valueOf() > checkout.date.valueOf()) {
+            var newDate = new Date(ev.date)
+            newDate.setDate(newDate.getDate() + 1);
+            checkout.setValue(newDate);
+          }
+          checkin.hide();
+          $('#dpd4')[0].focus();
+        }).data('datepicker');
+        var checkout = $('#dpd4').datepicker({
+          onRender: function(date) {
+            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          checkout.hide();
+        }).data('datepicker');
+    });
+
+$(function(){
+      window.prettyPrint && prettyPrint();
+      // disabling dates
+        var nowTemp = new Date();
+        var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
+
+        var checkin = $('#dp5').datepicker({
+          onRender: function(date) {
+            //return date.valueOf() < now.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          if (ev.date.valueOf() > checkout.date.valueOf()) {
+            var newDate = new Date(ev.date)
+            newDate.setDate(newDate.getDate() + 1);
+            checkout.setValue(newDate);
+          }
+          checkin.hide();
+          $('#dp6')[0].focus();
+        }).data('datepicker');
+        var checkout = $('#dp6').datepicker({
+          onRender: function(date) {
+            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          checkout.hide();
+        }).data('datepicker');
+    });
+
+
+
+
+
+  </script>
+
+   <script>
+    $(function(){
+
+    var appendthis =  ("<div class='modal-overlay js-modal-close'></div>");
+
+      $('a[data-modal-id]').click(function(e) {
+        e.preventDefault();
+        $("body").append(appendthis);
+        $(".modal-overlay").fadeTo(500, 0.7);
+        //$(".js-modalbox").fadeIn(500);
+        var modalBox = $(this).attr('data-modal-id');
+        $('#'+modalBox).fadeIn($(this).data());
+      });  
+      
+      
+    $(".js-modal-close, .modal-overlay").click(function() {
+        $(".modal-box, .modal-overlay").fadeOut(500, function() {
+            $(".modal-overlay").remove();
+        });
+     
+    });
+     
+    $(window).resize(function() {
+        $(".modal-box").css({
+            top: ($(window).height() - $(".modal-box").outerHeight()) / 2,
+            left: ($(window).width() - $(".modal-box").outerWidth()) / 2
+        });
+    });
+     
+    $(window).resize();
+     
+    });
+    </script>
+    <script type="text/javascript">
+      $('.carousel-sync').on('slide.bs.carousel', function(ev) {
+          var dir = ev.direction == 'right' ? 'prev' : 'next';
+        $('.carousel-sync').not('.sliding').addClass('sliding').carousel(dir);
+      });
+      $('.carousel-sync').on('slid.bs.carousel', function(ev) {
+        $('.carousel-sync').removeClass('sliding');
+      });
+    </script>
+
+	</div>
+    </body>
+</html>

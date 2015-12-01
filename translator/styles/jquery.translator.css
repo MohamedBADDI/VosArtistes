@@ -1,0 +1,201 @@
+/**
+ * Translator Revolution Lite
+ * http://goo.gl/1kVfu
+ *
+ * LICENSE
+ *
+ * You need to buy a license if you want use this script.
+ * http://codecanyon.net/wiki/buying/howto-buying/licensing/
+ *
+ * @package    Translator Revolution Lite
+ * @copyright  Copyright (c) 2012, Federico Stabile, surstudio.net
+ * @license    http://codecanyon.net/licenses/regular_extended/
+ * @version    1.8
+ * @date       2012-07-03
+ */
+
+.translator-container {
+	text-align: center !important;
+	height: 20px !important;
+}
+
+.translator-sub-container {
+	background: #444 !important;
+	vertical-align: middle !important;
+	text-align: center !important;
+	padding: 1px 0 !important;
+	margin: 0 !important;
+	height: 20px !important;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.translator-sub-container table {
+	text-align: center !important;
+	margin: 0 auto !important;
+	height: 20px !important;
+	border-collapse: separate !important;
+	border: none !important;
+	background: #444 !important;
+	width: auto !important;
+	border-spacing: 0 !important;
+}
+
+.translator-sub-container table tbody {
+	background: none !important;
+}
+
+.translator-sub-container table tr {
+	background: none !important;
+	border: none !important;
+}
+
+.translator-sub-container table td {
+	vertical-align: middle !important;
+	background: none !important;
+	border: none !important;
+	height: 20px !important;
+	line-height: 20px !important;
+	width: auto !important;
+	color: #fff !important;
+	padding: 0 !important;
+	font-family: Verdana;
+	font-size: 12px;
+	border-collapse: separate !important;
+}
+
+.translator-sub-container a {
+	padding: 0 8px;
+	height: 16px !important;
+	display: table !important;
+	border: none !important;
+	text-shadow: 0 0 1px #fff;
+	font-family: Verdana !important;
+	font-size: 10px !important;
+	color: #fff !important;
+	text-decoration: none !important;
+	white-space: nowrap !important;
+	vertical-align: middle !important;
+	line-height: 16px !important;
+}
+
+.translator-sub-container a:hover {
+	text-decoration: none !important;
+}
+
+.translator-sub-container a span {
+	padding: 0;
+	line-height: 16px !important;
+	color: #fff !important;
+	font-weight: normal !important;
+	text-shadow: 0 0 1px #fff;
+}
+
+.translator-flags-and-names .translator-sub-container a span,
+.translator-flags-and-short-names .translator-sub-container a span {
+	padding-left: 3px !important;
+}
+
+.translator-sub-container a img {
+	border: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	vertical-align: top !important;
+	box-shadow: 0 0 4px #bbb;
+	-moz-box-shadow: 0 0 4px #bbb;
+	-webkit-box-shadow: 0 0 4px #bbb;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	display: inline !important;
+}
+
+.translator-restore-container {
+	line-height: 10px !important;
+}
+
+.translator-restore {
+	background: #444 !important;
+	padding: 5px 10px 5px 24px !important;
+	border: none !important;
+	text-shadow: 0 0 1px #fff !important;
+	height: 22px !important;
+	line-height: 22px !important;
+	font-family: Verdana !important;
+	font-size: 10px !important;
+	color: #fff !important;
+	text-decoration: none !important;
+	background-image: url(../images/restore.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: 8px 50% !important;
+	border-radius: 0 0 3px 3px;
+	-moz-border-radius: 0 0 3px 3px;
+	-webkit-border-radius: 0 0 3px 3px;
+}
+
+.translator-restore:hover {
+	text-decoration: none !important;
+}
+
+.translator-loading-left {
+	padding-left: 16px !important;
+	background-image: url(../images/loading.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: center left !important;
+}
+
+.translator-loading-right {
+	padding-right: 16px !important;
+	background-image: url(../images/loading.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: right center !important;
+}
+
+.translator-completed-left {
+	padding-left: 16px !important;
+	background-image: url(../images/complete.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: left center !important;
+}
+
+.translator-completed-right {
+	padding-right: 16px !important;
+	background-image: url(../images/complete.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: right center !important;
+}
+
+.translator-hidden {
+	display: none;
+}
+
+/**
+ * 
+ * Responsive adjustments
+ * 
+ */
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+
+@media screen and (max-width: 200px) {
+
+}

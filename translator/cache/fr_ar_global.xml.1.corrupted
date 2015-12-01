@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="fr" to="ar" domain="global" scope="global">
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[أغسطس]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[سبتمبر]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[أكتوبر]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[تشرين الثاني]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[ديسمبر]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[أكتوبر 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[دي]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[اقرأ]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[لي]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[أنا]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[أنا]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[هاء]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[لها]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[يناير]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[فبراير]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[مارس]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[أبريل]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[قد]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[جووي]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[يوليو]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[أغسطس]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[سبتمبر]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[أكتوبر]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[تشرين الثاني]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[ديسمبر]]></translation>
+  </word>
+  <word hash="312afaec49e1719330825366497ae0aed0c143a56e0a383e3a97ad6f03c449d6" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Octobre 2015]]></source>
+    <translation><![CDATA[أكتوبر 2015]]></translation>
+  </word>
+  <word hash="16ab7287480992aa6d96f90bf79ea838ca05a6abd93c43df6c1c671fe275dbad" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Di]]></source>
+    <translation><![CDATA[دي]]></translation>
+  </word>
+  <word hash="1ce3fb2cb03a19b8fd1afdb0e0bd4aa977b8254805e1d4e15d52b6f94cfd21c7" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Lu]]></source>
+    <translation><![CDATA[اقرأ]]></translation>
+  </word>
+  <word hash="1bb657fb6ef260367e99c737381a10280b0603aa5be6c3705b48081db3fdedea" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Ma]]></source>
+    <translation><![CDATA[لي]]></translation>
+  </word>
+  <word hash="d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Me]]></source>
+    <translation><![CDATA[أنا]]></translation>
+  </word>
+  <word hash="3d3af356dbef167672a2a8d2ab5d04ee26063a00e518ff5d9a7dade2d6d77a9c" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Je]]></source>
+    <translation><![CDATA[أنا]]></translation>
+  </word>
+  <word hash="2dfb4247f67b4118edbf074d2a07f30d812a7c9d7ec7a536de69e2c4fb69bcef" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Ve]]></source>
+    <translation><![CDATA[هاء]]></translation>
+  </word>
+  <word hash="a951efc79deb7ff3ecb2daabc383401317b475842f9f41aa2bc43f15942d312d" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Sa]]></source>
+    <translation><![CDATA[لها]]></translation>
+  </word>
+  <word hash="5c5db120cb11bee138ff3143edcbedaead684de7a0ba140e12287d436c5dc487" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Jan]]></source>
+    <translation><![CDATA[يناير]]></translation>
+  </word>
+  <word hash="a2d24d849f50350605e0a9cc869b86f13bdcec42a89951bd3044b08aafec76da" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Fev]]></source>
+    <translation><![CDATA[فبراير]]></translation>
+  </word>
+  <word hash="b4b7d3818dbf673ecb386258e0a9e8dd9ab013cb3be2a041c26e65e293baec14" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Mar]]></source>
+    <translation><![CDATA[مارس]]></translation>
+  </word>
+  <word hash="db0fb0b06c687e53223f19e66dcf6ebef3f964ff1f6b02fe725d38dd8e162f7b" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Avr]]></source>
+    <translation><![CDATA[أبريل]]></translation>
+  </word>
+  <word hash="d77b6bd0886eec92d418c2b70b0c26add199414cfd13739c588da2c0e7ed2bba" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Mai]]></source>
+    <translation><![CDATA[قد]]></translation>
+  </word>
+  <word hash="18e35db6a6746a00fd63b2db8a054c57c9908f2b6d2f857022480e715fd01095" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Jui]]></source>
+    <translation><![CDATA[جووي]]></translation>
+  </word>
+  <word hash="ee39f8deb2cc15514ff3c7b15b450a08f12a960559cac912d2dda33823d153ab" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Juil]]></source>
+    <translation><![CDATA[يوليو]]></translation>
+  </word>
+  <word hash="928465366f94cfc3e5a27a94d5a67ea4101228b8aefdc612ec6b1ae63bef05ad" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Aoû]]></source>
+    <translation><![CDATA[أغسطس]]></translation>
+  </word>
+  <word hash="451e2b719061fdaed685a5342c8859d5fe5badbfb952cf120c6f1671891be25a" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Sep]]></source>
+    <translation><![CDATA[سبتمبر]]></translation>
+  </word>
+  <word hash="6877e8494c3adc69c645ce6e0c4ca9df2b224e79401f94d9d7d381519895aa48" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Oct]]></source>
+    <translation><![CDATA[أكتوبر]]></translation>
+  </word>
+  <word hash="3e630d2964a0461060d44a608353c061614fbf93ff26f7ea5289091ebc6455d1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Nov]]></source>
+    <translation><![CDATA[تشرين الثاني]]></translation>
+  </word>
+  <word hash="f2a0cfbcf1910783adcc6a7c149b5d7b9e8e9d2f88afa56a035f55cc9f8a8cf1" date="2015-10-12T14:12:14+02:00">
+    <source><![CDATA[Dec]]></source>
+    <translation><![CDATA[ديسمبر]]></translation>
+  </word>
+  <word hash="6d0c3ba20469e44bf8818f9c5a8666d42f04714b34afe0e5216079ccefd2fcfa" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Retourner à la version originale]]></source>
+    <translation><![CDATA[عودة إلى الإصدار الأصلي]]></translation>
+  </word>
+  <word hash="15d11a2ce35f5ba654703fffe96866927e817667ca477bf753bc808104709ec4" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Exposition permanente : Jilali Gharbaoui - Collection Louis Morère]]></source>
+    <translation><![CDATA[المعرض الدائم: جيلالي الغرباوي - مجموعة لويس Morère]]></translation>
+  </word>
+  <word hash="64c8abd6fe48227b05d8d9526ac793dec2aa3b82c53315605f8baef280fb5be3" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[La Fondation ONA ouvre son exposition permanente et met à l’honneur le premier peintre non guratif marocain : Jilali Gharbaoui. Disparu de façon pr& ...]]></source>
+    <translation><![CDATA[مؤسسة ONA يفتتح المعرض الدائم وتحتفل لأول مرة غير المغربي gurative الرسام: جيلالي الغرباوي. اختفى ذلك العلاقات العامة و...]]></translation>
+  </word>
+  <word hash="49dcb3a471a81bb8d1b5267eaa76fc97dd56d405c21a38106dd7c3b541962435" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Vernissage Moulay Youssef Elkahfai]]></source>
+    <translation><![CDATA[فتح مولاي يوسف Elkahfai]]></translation>
+  </word>
+  <word hash="e1ea01d0db7c54b614b5d125f4920f39706b26f8a3f6331b18749d1dee0c73fb" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[My Youssef Elkahfai présente son œuvre graphique , synergie entre peinture et gravure. Cet événement est organisé dans un cadre culturel ...]]></source>
+    <translation><![CDATA[بلدي يوسف Elkahfai تقديم عمل الرسوم البيانية له والتآزر بين الرسم والنقش. ويتم تنظيم هذا الحدث في سياق ثقافي ...]]></translation>
+  </word>
+  <word hash="3371fd97d11bdb192002f131fb527a384c50c3125a28565178d68b91c86e930d" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Vernissage de Abdelkader Rhorbal : Une Clé / Une énigme]]></source>
+    <translation><![CDATA[افتتاح عبد القادر Rhorbal: مفتاح / لغز]]></translation>
+  </word>
+  <word hash="09a7700133c9b6fd82056a87ebff63269247cd68801f153969771d44e82d075b" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Le Ministère de la culture organise une Exposition de l’artiste Abdelkader Rhorbal « Une Clef une énigme » à la Galerie Bab El K&e ...]]></source>
+    <translation><![CDATA[وزارة الثقافة تنظم معرضا للفنان عبد القادر Rhorbal "A المفتاح الموسيقي لغزا" على باب معرض K & ه ...]]></translation>
+  </word>
+  <word hash="ccb875f4e1e2084ba2d525cce5056418e2ad9a2d0ed0e114dc15c86a9f25aeab" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Malard Anna Maria]]></source>
+    <translation><![CDATA[ملارد آنا ماريا]]></translation>
+  </word>
+  <word hash="3f276701f633f874d6a0dde2bd3dcc7eb4c61526519d2a7a8bf7164a8c548082" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Douah Mohamed]]></source>
+    <translation><![CDATA[محمد Douah]]></translation>
+  </word>
+  <word hash="31be4129363a4d14c93c8c9f1f928019bd5206766a842926e57b87ab45d08f2c" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Mrani Alaoui Mohamed]]></source>
+    <translation><![CDATA[Mrani محمد العلوي]]></translation>
+  </word>
+  <word hash="2e741ed55b3cac2d9fecefe2a125e8d3015bfb72f2f3509d7e2bfb2b138fc122" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[“ Russoto Vito ”]]></source>
+    <translation><![CDATA["Russoto فيتو"]]></translation>
+  </word>
+  <word hash="22fa769fb9f9992315ff5fdec06fc287e2968534d68ed84cf5d99d99cc36db2d" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Marrakech de Russotto]]></source>
+    <translation><![CDATA[مراكش Russotto]]></translation>
+  </word>
+  <word hash="2e741ed55b3cac2d9fecefe2a125e8d3015bfb72f2f3509d7e2bfb2b138fc122" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[“ Russoto Vito ”]]></source>
+    <translation><![CDATA["Russoto فيتو"]]></translation>
+  </word>
+  <word hash="25af0248773bf2b4b551ed81286c88e975e938696138d94ef2a52685eefa1b68" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[La chèvre sous l'arbre de Russotto]]></source>
+    <translation><![CDATA[الماعز تحت شجرة Russotto]]></translation>
+  </word>
+  <word hash="2e741ed55b3cac2d9fecefe2a125e8d3015bfb72f2f3509d7e2bfb2b138fc122" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[“ Russoto Vito ”]]></source>
+    <translation><![CDATA["Russoto فيتو"]]></translation>
+  </word>
+  <word hash="165384856dc34e695366c8a1fb714db816965ec3c06bd2788f648940b0140e10" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Harmonie de Russotto]]></source>
+    <translation><![CDATA[وئام Russotto]]></translation>
+  </word>
+  <word hash="b5923eb6cd66ba0a7cf0d77106cd8560c593d8040ed95f0f6e90ba752000d342" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[“ Rabii Abdelkebir ”]]></source>
+    <translation><![CDATA["ربيع عبد الكبير"]]></translation>
+  </word>
+  <word hash="1961cf34cf6a53d43e71ccda878e93dfdfad86c268bf9effc07a87b44636d28d" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Petite oeuvre de Rabii]]></source>
+    <translation><![CDATA[يذكر ربيع العمل]]></translation>
+  </word>
+  <word hash="d1deb657235a396d625d5a27241d66d4bfb937b605b41de423913ddffa553ac9" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[“ El Kiyale Saida ”]]></source>
+    <translation><![CDATA["إل Kiyale صيدا"]]></translation>
+  </word>
+  <word hash="a39185dbfd11c33c18cd16c57bed53dff40006b1a21cc6ab70a6a2549b470249" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Calligraphie de El Kiyale]]></source>
+    <translation><![CDATA[الخط إل Kiyale]]></translation>
+  </word>
+  <word hash="49dcb3a471a81bb8d1b5267eaa76fc97dd56d405c21a38106dd7c3b541962435" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Vernissage Moulay Youssef Elkahfai]]></source>
+    <translation><![CDATA[فتح مولاي يوسف Elkahfai]]></translation>
+  </word>
+  <word hash="1e6dac397c3db137ac72f2ad9f97c2b0f2ba2f96d45fe1165e4facddb3f22eb7" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Du Jeu, 22/10/2015 Du Dim, 22/11/2015.]]></source>
+    <translation><![CDATA[من الخميس 2015/10/22 الشمس، 2015/11/22.]]></translation>
+  </word>
+  <word hash="ff3f23230ec30b1f3de11827ceb7e0856b5aad5278907bcbb5f38c53abb60a85" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Lieu : Ambre Art Center.]]></source>
+    <translation><![CDATA[الموقع: مركز العنبر الفن.]]></translation>
+  </word>
+  <word hash="cf9aaef07f2007aa1a2e012243069f9b293b63085064e1aa65fec360f7b9a400" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[« La peinture, c'est très facile quand vous ne savez pas comment faire. Quand vous le savez, c'est très difficile. »  Edgar Degas (1834-1917)]]></source>
+    <translation><![CDATA["الرسم من السهل عندما كنت لا أعرف كيف. عندما تعلمون، فإنه من الصعب جدا. "إدغار ديغا (1834-1917)]]></translation>
+  </word>
+  <word hash="15d11a2ce35f5ba654703fffe96866927e817667ca477bf753bc808104709ec4" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Exposition permanente : Jilali Gharbaoui - Collection Louis Morère]]></source>
+    <translation><![CDATA[المعرض الدائم: جيلالي الغرباوي - مجموعة لويس Morère]]></translation>
+  </word>
+  <word hash="64c8abd6fe48227b05d8d9526ac793dec2aa3b82c53315605f8baef280fb5be3" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[La Fondation ONA ouvre son exposition permanente et met à l’honneur le premier peintre non guratif marocain : Jilali Gharbaoui. Disparu de façon pr& ...]]></source>
+    <translation><![CDATA[مؤسسة ONA يفتتح المعرض الدائم وتحتفل لأول مرة غير المغربي gurative الرسام: جيلالي الغرباوي. اختفى ذلك العلاقات العامة و...]]></translation>
+  </word>
+  <word hash="49dcb3a471a81bb8d1b5267eaa76fc97dd56d405c21a38106dd7c3b541962435" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Vernissage Moulay Youssef Elkahfai]]></source>
+    <translation><![CDATA[فتح مولاي يوسف Elkahfai]]></translation>
+  </word>
+  <word hash="e1ea01d0db7c54b614b5d125f4920f39706b26f8a3f6331b18749d1dee0c73fb" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[My Youssef Elkahfai présente son œuvre graphique , synergie entre peinture et gravure. Cet événement est organisé dans un cadre culturel ...]]></source>
+    <translation><![CDATA[بلدي يوسف Elkahfai تقديم عمل الرسوم البيانية له والتآزر بين الرسم والنقش. ويتم تنظيم هذا الحدث في سياق ثقافي ...]]></translation>
+  </word>
+  <word hash="3371fd97d11bdb192002f131fb527a384c50c3125a28565178d68b91c86e930d" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Vernissage de Abdelkader Rhorbal : Une Clé / Une énigme]]></source>
+    <translation><![CDATA[افتتاح عبد القادر Rhorbal: مفتاح / لغز]]></translation>
+  </word>
+  <word hash="09a7700133c9b6fd82056a87ebff63269247cd68801f153969771d44e82d075b" date="2015-10-16T12:20:17+02:00">
+    <source><![CDATA[Le Ministère de la culture organise une Exposition de l’artiste Abdelkader Rhorbal « Une Clef une énigme » à la Galerie Bab El K&e ...]]></source>
+    <translation><![CDATA[وزارة الثقافة تنظم معرضا للفنان عبد القادر Rhorbal "A المفتاح الموسيقي لغزا" على باب معرض K & ه ...]]></translation>
+  </word>
+</translations>
