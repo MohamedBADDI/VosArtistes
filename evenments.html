@@ -800,7 +800,7 @@
 <script src="js/bootstrap-datepicker.js"></script>
 
 <?php
-$total = 0;
+$total = 1000;
 ?>
 
 <script type="text/javascript">
@@ -818,7 +818,7 @@ var nameart;
 $(document).ready(function() {
   var track_load = 6; //total loaded record group(s)
   var loading  = false; //to prevents multipal ajax loads
-  var total = 0; //total record group(s)
+  var total = <?php echo $total; ?>; //total record group(s)
   
   //$('#artist_right').load("autoload_oeuvres.html", {'group_no':track_load}, function() {track_load++;}); //load first group
   
