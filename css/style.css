@@ -833,12 +833,12 @@ margin-left: -15px !important;
 .invisible{display: none !important;}
 
 
-.oeuvres_titre{color: #01738B;font-size: 22px;/**/text-align: center;display: block;padding: 20px;width: 299px;height: 10px;}
+.oeuvres_titre{color: #01738B;font-size: 22px;/*text-align: center;*/display: block;padding: 20px;width: 299px;height: 10px;padding-left: 8px;padding-top: 10px;}
 
 .oeuvres_nombre{color: #424242;font-size: 16px;}
 
 /*.oeuvres_servol{position: relative;right: -240px;top: 13px;}*/
-.oeuvres_servol{left: 90%;margin-left: -18px;position: relative;top: 13px;}
+.oeuvres_servol{left: 90%;margin-left: -18px;position: relative;top: -40px;}
 
 
 
